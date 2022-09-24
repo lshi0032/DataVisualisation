@@ -1,6 +1,5 @@
 Country,Code,ShareOfDeaths
 Afghanistan,AFG,0.01888524
-African Region (WHO),,3.864151702
 Albania,ALB,0.006906151
 Algeria,DZA,0.02892939
 American Samoa,ASM,0.038844712
@@ -53,8 +52,6 @@ Denmark,DNK,0.003871416
 Djibouti,DJI,0.021591518
 Dominica,DMA,0.858947476
 Dominican Republic,DOM,0.906911387
-East Asia & Pacific (WB),,0.04196037
-Eastern Mediterranean Region (WHO),,0.029759511
 Ecuador,ECU,0.127604951
 Egypt,EGY,0.012031435
 El Salvador,SLV,0.2652458
@@ -64,12 +61,9 @@ Eritrea,ERI,0.918895936
 Estonia,EST,0.003136253
 Eswatini,SWZ,0.394491966
 Ethiopia,ETH,1.626768561
-Europe & Central Asia (WB),,0.189174383
-European Region (WHO),,0.188568949
 Fiji,FJI,0.05170946
 Finland,FIN,0.029080021
 France,FRA,0.593885157
-G20,,0.198631161
 Gabon,GAB,1.457859798
 Gambia,GMB,0.249303563
 Georgia,GEO,0.003305279
@@ -103,7 +97,6 @@ Kiribati,KIR,0.068194781
 Kuwait,KWT,0.038815698
 Kyrgyzstan,KGZ,0.08343734
 Laos,LAO,4.67E-05
-Latin America & Caribbean (WB),,0.668746876
 Latvia,LVA,0.123129894
 Lebanon,LBN,0.215166655
 Lesotho,LSO,2.851862008
@@ -121,8 +114,7 @@ Marshall Islands,MHL,0.139460669
 Mauritania,MRT,0.18460533
 Mauritius,MUS,0.155924902
 Mexico,MEX,0.467421817
-Micronesia (country),FSM,0.74016971
-Middle East & North Africa (WB),,0.02995865
+Micronesia,FSM,0.74016971
 Moldova,MDA,0.126551352
 Monaco,MCO,0.095647395
 Mongolia,MNG,5.12E-05
@@ -139,13 +131,11 @@ Nicaragua,NIC,0.104128776
 Niger,NER,0.189262125
 Nigeria,NGA,0.577879774
 Niue,NIU,0.023502169
-North America (WB),,1.231189189
 North Korea,PRK,0.018280154
 North Macedonia,MKD,0.003501606
 Northern Ireland,,0.068962443
 Northern Mariana Islands,MNP,0.057275505
 Norway,NOR,0.070676135
-OECD Countries,,0.461377811
 Oman,OMN,0.040771346
 Pakistan,PAK,0.024118705
 Palau,PLW,0.033905466
@@ -159,7 +149,6 @@ Poland,POL,0.005242514
 Portugal,PRT,0.211736412
 Puerto Rico,PRI,3.717211035
 Qatar,QAT,0.159990357
-Region of the Americas (WHO),,0.912338035
 Romania,ROU,0.083155019
 Russia,RUS,0.2083484
 Rwanda,RWA,1.737596439
@@ -181,13 +170,10 @@ Slovenia,SVN,0.021785519
 Solomon Islands,SLB,0.105978541
 Somalia,SOM,0.022420814
 South Africa,ZAF,0.969511389
-South Asia (WB),,0.013447419
 South Korea,KOR,0.021879919
 South Sudan,SSD,0.330518474
-South-East Asia Region (WHO),,0.019019959
 Spain,ESP,0.647992722
 Sri Lanka,LKA,0.028068585
-Sub-Saharan Africa (WB),,3.748234399
 Sudan,SDN,0.077138029
 Suriname,SUR,2.261661117
 Sweden,SWE,0.072891882
@@ -218,7 +204,6 @@ Vanuatu,VUT,0.146405898
 Venezuela,VEN,0.737447926
 Vietnam,VNM,0.066410543
 Wales,,0.053735969
-Western Pacific Region (WHO),,0.040749144
 Yemen,YEM,0.049357003
 Zambia,ZMB,11.09364155
 Zimbabwe,ZWE,14.88570452
