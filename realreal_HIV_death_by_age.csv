@@ -1,0 +1,1001 @@
+Country,Code,Age,Percenatge death
+Afghanistan,AFG,5<,0.003114998
+Albania,ALB,5<,0
+Algeria,DZA,5<,0.002689705
+American Samoa,ASM,5<,0
+Andorra,AND,5<,0
+Angola,AGO,5<,0.11429272
+Antigua and Barbuda,ATG,5<,0
+Argentina,ARG,5<,0.00123279
+Armenia,ARM,5<,0
+Australia,AUS,5<,0.000145866
+Austria,AUT,5<,0.000213966
+Azerbaijan,AZE,5<,0.000588571
+Bahamas,BHS,5<,0.011810437
+Bahrain,BHR,5<,0.000609324
+Bangladesh,BGD,5<,0.000442819
+Barbados,BRB,5<,0.000348407
+Belarus,BLR,5<,0.000626343
+Belgium,BEL,5<,0.000557056
+Belize,BLZ,5<,0.015370782
+Benin,BEN,5<,0.154086665
+Bermuda,BMU,5<,0
+Bhutan,BTN,5<,0.008649
+Bolivia,BOL,5<,0.024155089
+Bosnia and Herzegovina,BIH,5<,0
+Botswana,BWA,5<,0.729000223
+Brazil,BRA,5<,0.009376472
+Brunei,BRN,5<,0
+Bulgaria,BGR,5<,0.000544743
+Burkina Faso,BFA,5<,0.235623727
+Burundi,BDI,5<,0.370137592
+Cambodia,KHM,5<,0.057446856
+Cameroon,CMR,5<,0.361495598
+Canada,CAN,5<,0.000151591
+Cape Verde,CPV,5<,0.065825842
+Central African Republic,CAF,5<,0.719551359
+Chad,TCD,5<,0.154155527
+Chile,CHL,5<,0.00048016
+China,CHN,5<,0.001306842
+Colombia,COL,5<,0.00251294
+Comoros,COM,5<,0
+Congo,COG,5<,0.522813476
+Costa Rica,CRI,5<,0.002991544
+Cote d'Ivoire,CIV,5<,0.597408969
+Croatia,HRV,5<,7.38E-05
+Cuba,CUB,5<,0.00033529
+Cyprus,CYP,5<,0
+Czechia,CZE,5<,0.000112445
+Democratic Republic of Congo,COD,5<,0.151690446
+Denmark,DNK,5<,0.000103192
+Djibouti,DJI,5<,0.213341386
+Dominica,DMA,5<,0
+Dominican Republic,DOM,5<,0.034975464
+Ecuador,ECU,5<,0.004334148
+Egypt,EGY,5<,0.00056182
+El Salvador,SLV,5<,0.025024986
+Equatorial Guinea,GNQ,5<,0.344621094
+Eritrea,ERI,5<,#DIV/0!
+Estonia,EST,5<,0
+Eswatini,SWZ,5<,1.619063297
+Ethiopia,ETH,5<,0.280083481
+Fiji,FJI,5<,0.005168801
+Finland,FIN,5<,0.000162996
+France,FRA,5<,0.000529376
+Gabon,GAB,5<,0.234882246
+Gambia,GMB,5<,0.109341244
+Georgia,GEO,5<,0.000215044
+Germany,DEU,5<,0.000371873
+Ghana,GHA,5<,0.197699654
+Greece,GRC,5<,0.00018654
+Greenland,GRL,5<,0
+Grenada,GRD,5<,0
+Guam,GUM,5<,0.008368451
+Guatemala,GTM,5<,0.007895675
+Guinea,GIN,5<,0.102096538
+Guinea-Bissau,GNB,5<,0.235928986
+Guyana,GUY,5<,0.019929098
+Haiti,HTI,5<,0.34674355
+Honduras,HND,5<,0.003324402
+Hungary,HUN,5<,0.00026609
+Iceland,ISL,5<,0
+India,IND,5<,0.009739042
+Indonesia,IDN,5<,0.004686549
+Iran,IRN,5<,0.001971925
+Iraq,IRQ,5<,0.001205807
+Ireland,IRL,5<,0.000121597
+Israel,ISR,5<,0.000938812
+Italy,ITA,5<,0.000358284
+Jamaica,JAM,5<,0.011498241
+Japan,JPN,5<,0.000168992
+Jordan,JOR,5<,0.001039429
+Kazakhstan,KAZ,5<,0.000588754
+Kenya,KEN,5<,0.664311673
+Kiribati,KIR,5<,0.002550847
+Kuwait,KWT,5<,0.000190156
+Kyrgyzstan,KGZ,5<,0.005514079
+Laos,LAO,5<,0.011827955
+Latvia,LVA,5<,0.001358538
+Lebanon,LBN,5<,0.005601171
+Lesotho,LSO,5<,1.326609786
+Liberia,LBR,5<,0.095070781
+Libya,LBY,5<,0.002847677
+Lithuania,LTU,5<,0
+Luxembourg,LUX,5<,0
+Madagascar,MDG,5<,0.015521349
+Malawi,MWI,5<,1.157651542
+Malaysia,MYS,5<,0.014059561
+Maldives,MDV,5<,0
+Mali,MLI,5<,0.086341338
+Malta,MLT,5<,0
+Marshall Islands,MHL,5<,0
+Mauritania,MRT,5<,0.000817553
+Mauritius,MUS,5<,0.000237021
+Mexico,MEX,5<,0.002752879
+Micronesia (country),FSM,5<,0.090500918
+Moldova,MDA,5<,0
+Monaco,MCO,5<,0
+Mongolia,MNG,5<,0.000620123
+Montenegro,MNE,5<,0
+Morocco,MAR,5<,0.012829102
+Mozambique,MOZ,5<,1.105323469
+Myanmar,MMR,5<,0.034953932
+Namibia,NAM,5<,0.814383826
+Nauru,NRU,5<,0
+Nepal,NPL,5<,0.01291914
+Netherlands,NLD,5<,0.000357454
+New Zealand,NZL,5<,0
+Nicaragua,NIC,5<,0.017355427
+Niger,NER,5<,0.038467282
+Nigeria,NGA,5<,0.119206661
+North Korea,PRK,5<,0.003833842
+North Macedonia,MKD,5<,0.000529688
+Northern Mariana Islands,MNP,5<,0
+Norway,NOR,5<,0.000149592
+Oman,OMN,5<,0.001085429
+Pakistan,PAK,5<,0.002988937
+Palau,PLW,5<,0
+Palestine,PSE,5<,0.001301943
+Panama,PAN,5<,0.006381816
+Papua New Guinea,PNG,5<,0.076628405
+Paraguay,PRY,5<,0.028830434
+Peru,PER,5<,0.037132662
+Philippines,PHL,5<,0.011127799
+Poland,POL,5<,0.000242325
+Portugal,PRT,5<,0.000806901
+Puerto Rico,PRI,5<,0.002598871
+Qatar,QAT,5<,0
+Romania,ROU,5<,0.003680637
+Russia,RUS,5<,0.007703267
+Rwanda,RWA,5<,0.204459704
+Saint Kitts and Nevis,KNA,5<,0.020819927
+Saint Lucia,LCA,5<,0
+Saint Vincent and the Grenadines,VCT,5<,0.011754813
+Samoa,WSM,5<,0.009640119
+San Marino,SMR,5<,0
+Sao Tome and Principe,STP,5<,0
+Saudi Arabia,SAU,5<,0.003084463
+Senegal,SEN,5<,0.05110343
+Serbia,SRB,5<,0.001612616
+Seychelles,SYC,5<,0
+Sierra Leone,SLE,5<,0.091895684
+Singapore,SGP,5<,0
+Slovakia,SVK,5<,5.50E-05
+Slovenia,SVN,5<,0
+Solomon Islands,SLB,5<,0.01776594
+Somalia,SOM,5<,0.083552927
+South Africa,ZAF,5<,0.617835907
+South Korea,KOR,5<,0.000142954
+South Sudan,SSD,5<,0.162428266
+Spain,ESP,5<,0.000850751
+Sri Lanka,LKA,5<,0.000912718
+Sudan,SDN,5<,0.022985882
+Suriname,SUR,5<,0.017544976
+Sweden,SWE,5<,0.00022376
+Switzerland,CHE,5<,0.000198244
+Syria,SYR,5<,0.001013466
+Tajikistan,TJK,5<,0.000289668
+Tanzania,TZA,5<,0.560979939
+Thailand,THA,5<,0.020133405
+Timor,TLS,5<,0.125974388
+Togo,TGO,5<,0.277678831
+Tonga,TON,5<,0
+Trinidad and Tobago,TTO,5<,0.0088174
+Tunisia,TUN,5<,0.002402794
+Turkey,TUR,5<,0.000530987
+Turkmenistan,TKM,5<,0.000706822
+Tuvalu,TUV,5<,0
+Uganda,UGA,5<,0.967099603
+Ukraine,UKR,5<,0.002059198
+United Arab Emirates,ARE,5<,0.000808554
+United Kingdom,GBR,5<,0.000363575
+United States,USA,5<,0.001199708
+United States Virgin Islands,VIR,5<,0
+Uruguay,URY,5<,0.000548858
+Uzbekistan,UZB,5<,0.000539006
+Vanuatu,VUT,5<,0.012004722
+Venezuela,VEN,5<,0.005379468
+Vietnam,VNM,5<,0.002147994
+Yemen,YEM,5<,0.006031838
+Zambia,ZMB,5<,1.210310668
+Zimbabwe,ZWE,5<,1.613932169
+Afghanistan,AFG,5 to 14,0.00019978
+Albania,ALB,5 to 14,0
+Algeria,DZA,5 to 14,0.000229949
+American Samoa,ASM,5 to 14,0
+Andorra,AND,5 to 14,0
+Angola,AGO,5 to 14,0.023811245
+Antigua and Barbuda,ATG,5 to 14,0
+Argentina,ARG,5 to 14,0.0011015
+Armenia,ARM,5 to 14,0
+Australia,AUS,5 to 14,0.000161635
+Austria,AUT,5 to 14,9.01E-05
+Azerbaijan,AZE,5 to 14,0
+Bahamas,BHS,5 to 14,0.0094997
+Bahrain,BHR,5 to 14,0
+Bangladesh,BGD,5 to 14,5.15E-05
+Barbados,BRB,5 to 14,0
+Belarus,BLR,5 to 14,0.000191088
+Belgium,BEL,5 to 14,0.000374272
+Belize,BLZ,5 to 14,0.007941571
+Benin,BEN,5 to 14,0.029090383
+Bermuda,BMU,5 to 14,0
+Bhutan,BTN,5 to 14,0.000393136
+Bolivia,BOL,5 to 14,0.002466755
+Bosnia and Herzegovina,BIH,5 to 14,0
+Botswana,BWA,5 to 14,0.145591684
+Brazil,BRA,5 to 14,0.003397781
+Brunei,BRN,5 to 14,0
+Bulgaria,BGR,5 to 14,4.30E-05
+Burkina Faso,BFA,5 to 14,0.062845132
+Burundi,BDI,5 to 14,0.100229156
+Cambodia,KHM,5 to 14,0.016310273
+Cameroon,CMR,5 to 14,0.074264618
+Canada,CAN,5 to 14,0.000234035
+Cape Verde,CPV,5 to 14,0.017092898
+Central African Republic,CAF,5 to 14,0.138962092
+Chad,TCD,5 to 14,0.029736221
+Chile,CHL,5 to 14,0.000221612
+China,CHN,5 to 14,0.000242302
+Colombia,COL,5 to 14,0.000921742
+Comoros,COM,5 to 14,0
+Congo,COG,5 to 14,0.128185018
+Costa Rica,CRI,5 to 14,0.002793428
+Cote d'Ivoire,CIV,5 to 14,0.119638891
+Croatia,HRV,5 to 14,0
+Cuba,CUB,5 to 14,0.000379407
+Cyprus,CYP,5 to 14,0
+Czechia,CZE,5 to 14,0
+Democratic Republic of Congo,COD,5 to 14,0.039389073
+Denmark,DNK,5 to 14,5.16E-05
+Djibouti,DJI,5 to 14,0.032561011
+Dominica,DMA,5 to 14,0
+Dominican Republic,DOM,5 to 14,0.004777
+Ecuador,ECU,5 to 14,0.001680705
+Egypt,EGY,5 to 14,5.58E-05
+El Salvador,SLV,5 to 14,0.002618714
+Equatorial Guinea,GNQ,5 to 14,0.088128013
+Eritrea,ERI,5 to 14,#DIV/0!
+Estonia,EST,5 to 14,0
+Eswatini,SWZ,5 to 14,0.225757817
+Ethiopia,ETH,5 to 14,0.064335135
+Fiji,FJI,5 to 14,0.000561826
+Finland,FIN,5 to 14,9.06E-05
+France,FRA,5 to 14,0.00047287
+Gabon,GAB,5 to 14,0.030148515
+Gambia,GMB,5 to 14,0.018528804
+Georgia,GEO,5 to 14,0
+Germany,DEU,5 to 14,0.000274391
+Ghana,GHA,5 to 14,0.048175647
+Greece,GRC,5 to 14,7.46E-05
+Greenland,GRL,5 to 14,0
+Grenada,GRD,5 to 14,0
+Guam,GUM,5 to 14,0
+Guatemala,GTM,5 to 14,0.002920978
+Guinea,GIN,5 to 14,0.022206134
+Guinea-Bissau,GNB,5 to 14,0.065853965
+Guyana,GUY,5 to 14,0.011369806
+Haiti,HTI,5 to 14,0.077696339
+Honduras,HND,5 to 14,0.000872142
+Hungary,HUN,5 to 14,0.000143279
+Iceland,ISL,5 to 14,0
+India,IND,5 to 14,0.002105066
+Indonesia,IDN,5 to 14,0.000415704
+Iran,IRN,5 to 14,8.32E-05
+Iraq,IRQ,5 to 14,0.000119563
+Ireland,IRL,5 to 14,6.08E-05
+Israel,ISR,5 to 14,0.000353435
+Italy,ITA,5 to 14,0.000308058
+Jamaica,JAM,5 to 14,0.009056137
+Japan,JPN,5 to 14,4.82E-05
+Jordan,JOR,5 to 14,6.93E-05
+Kazakhstan,KAZ,5 to 14,0.000167444
+Kenya,KEN,5 to 14,0.144274827
+Kiribati,KIR,5 to 14,0
+Kuwait,KWT,5 to 14,2.38E-05
+Kyrgyzstan,KGZ,5 to 14,0.001548899
+Laos,LAO,5 to 14,0.001380858
+Latvia,LVA,5 to 14,0
+Lebanon,LBN,5 to 14,0.000408419
+Lesotho,LSO,5 to 14,0.206279964
+Liberia,LBR,5 to 14,0.02096256
+Libya,LBY,5 to 14,0.000295096
+Lithuania,LTU,5 to 14,0
+Luxembourg,LUX,5 to 14,0
+Madagascar,MDG,5 to 14,0.002932964
+Malawi,MWI,5 to 14,0.21546267
+Malaysia,MYS,5 to 14,0.002964026
+Maldives,MDV,5 to 14,0
+Mali,MLI,5 to 14,0.015657729
+Malta,MLT,5 to 14,0
+Marshall Islands,MHL,5 to 14,0
+Mauritania,MRT,5 to 14,8.84E-05
+Mauritius,MUS,5 to 14,0
+Mexico,MEX,5 to 14,0.001634326
+Micronesia (country),FSM,5 to 14,0.007907847
+Moldova,MDA,5 to 14,0
+Monaco,MCO,5 to 14,0
+Mongolia,MNG,5 to 14,0
+Montenegro,MNE,5 to 14,0
+Morocco,MAR,5 to 14,0.001146092
+Mozambique,MOZ,5 to 14,0.17176423
+Myanmar,MMR,5 to 14,0.012974272
+Namibia,NAM,5 to 14,0.131969065
+Nauru,NRU,5 to 14,0
+Nepal,NPL,5 to 14,0.001779178
+Netherlands,NLD,5 to 14,0.000270973
+New Zealand,NZL,5 to 14,4.02E-05
+Nicaragua,NIC,5 to 14,0.001359712
+Niger,NER,5 to 14,0.007348551
+Nigeria,NGA,5 to 14,0.014684749
+North Korea,PRK,5 to 14,0.000338968
+North Macedonia,MKD,5 to 14,0
+Northern Mariana Islands,MNP,5 to 14,0
+Norway,NOR,5 to 14,0.000112194
+Oman,OMN,5 to 14,0.000241206
+Pakistan,PAK,5 to 14,0.000222104
+Palau,PLW,5 to 14,0
+Palestine,PSE,5 to 14,0
+Panama,PAN,5 to 14,0.00219007
+Papua New Guinea,PNG,5 to 14,0.009639796
+Paraguay,PRY,5 to 14,0.002200255
+Peru,PER,5 to 14,0.003586538
+Philippines,PHL,5 to 14,0.006431943
+Poland,POL,5 to 14,0.00016594
+Portugal,PRT,5 to 14,0.000437477
+Puerto Rico,PRI,5 to 14,0.00256756
+Qatar,QAT,5 to 14,0
+Romania,ROU,5 to 14,0.018387697
+Russia,RUS,5 to 14,0.001702142
+Rwanda,RWA,5 to 14,0.051382212
+Saint Kitts and Nevis,KNA,5 to 14,0
+Saint Lucia,LCA,5 to 14,0
+Saint Vincent and the Grenadines,VCT,5 to 14,0.003616865
+Samoa,WSM,5 to 14,0
+San Marino,SMR,5 to 14,0
+Sao Tome and Principe,STP,5 to 14,0
+Saudi Arabia,SAU,5 to 14,0.000507755
+Senegal,SEN,5 to 14,0.011069955
+Serbia,SRB,5 to 14,0.000331162
+Seychelles,SYC,5 to 14,0
+Sierra Leone,SLE,5 to 14,0.019620624
+Singapore,SGP,5 to 14,0
+Slovakia,SVK,5 to 14,0
+Slovenia,SVN,5 to 14,0
+Solomon Islands,SLB,5 to 14,0.002687285
+Somalia,SOM,5 to 14,0.023143313
+South Africa,ZAF,5 to 14,0.135377982
+South Korea,KOR,5 to 14,6.76E-05
+South Sudan,SSD,5 to 14,0.025094661
+Spain,ESP,5 to 14,0.000581311
+Sri Lanka,LKA,5 to 14,0.000114663
+Sudan,SDN,5 to 14,0.003417167
+Suriname,SUR,5 to 14,0.007396412
+Sweden,SWE,5 to 14,7.78E-05
+Switzerland,CHE,5 to 14,0.000151599
+Syria,SYR,5 to 14,8.79E-05
+Tajikistan,TJK,5 to 14,9.66E-05
+Tanzania,TZA,5 to 14,0.101840411
+Thailand,THA,5 to 14,0.003386686
+Timor,TLS,5 to 14,0.015234472
+Togo,TGO,5 to 14,0.065859485
+Tonga,TON,5 to 14,0
+Trinidad and Tobago,TTO,5 to 14,0.006308384
+Tunisia,TUN,5 to 14,0.000153916
+Turkey,TUR,5 to 14,3.24E-05
+Turkmenistan,TKM,5 to 14,0.00037024
+Tuvalu,TUV,5 to 14,0
+Uganda,UGA,5 to 14,0.216058036
+Ukraine,UKR,5 to 14,0.000838098
+United Arab Emirates,ARE,5 to 14,7.16E-05
+United Kingdom,GBR,5 to 14,0.000187024
+United States,USA,5 to 14,0.000638687
+United States Virgin Islands,VIR,5 to 14,0
+Uruguay,URY,5 to 14,0.000548858
+Uzbekistan,UZB,5 to 14,0.000780218
+Vanuatu,VUT,5 to 14,0
+Venezuela,VEN,5 to 14,0.001749905
+Vietnam,VNM,5 to 14,0.000794094
+Yemen,YEM,5 to 14,0.000442358
+Zambia,ZMB,5 to 14,0.2124793
+Zimbabwe,ZWE,5 to 14,0.290902178
+Afghanistan,AFG,15 to 49,0.006532296
+Albania,ALB,15 to 49,0.001051086
+Algeria,DZA,15 to 49,0.008145764
+American Samoa,ASM,15 to 49,0
+Andorra,AND,15 to 49,0.060923444
+Angola,AGO,15 to 49,0.521305393
+Antigua and Barbuda,ATG,15 to 49,0.190495804
+Argentina,ARG,15 to 49,0.084735406
+Armenia,ARM,15 to 49,0.007133854
+Australia,AUS,15 to 49,0.017318632
+Austria,AUT,15 to 49,0.016621771
+Azerbaijan,AZE,15 to 49,0.009566769
+Bahamas,BHS,15 to 49,0.998238704
+Bahrain,BHR,15 to 49,0.012491134
+Bangladesh,BGD,15 to 49,0.001756558
+Barbados,BRB,15 to 49,0.305552555
+Belarus,BLR,15 to 49,0.067666282
+Belgium,BEL,15 to 49,0.015205876
+Belize,BLZ,15 to 49,0.374278534
+Benin,BEN,15 to 49,0.415035788
+Bermuda,BMU,15 to 49,0.328581934
+Bhutan,BTN,15 to 49,0.055825364
+Bolivia,BOL,15 to 49,0.104645994
+Bosnia and Herzegovina,BIH,15 to 49,0.001393518
+Botswana,BWA,15 to 49,8.675771139
+Brazil,BRA,15 to 49,0.159844003
+Brunei,BRN,15 to 49,0.014539714
+Bulgaria,BGR,15 to 49,0.015267151
+Burkina Faso,BFA,15 to 49,1.053373188
+Burundi,BDI,15 to 49,1.804593127
+Cambodia,KHM,15 to 49,0.459301896
+Cameroon,CMR,15 to 49,1.989018019
+Canada,CAN,15 to 49,0.034889816
+Cape Verde,CPV,15 to 49,0.364042361
+Central African Republic,CAF,15 to 49,4.093438836
+Chad,TCD,15 to 49,0.551468306
+Chile,CHL,15 to 49,0.050305943
+China,CHN,15 to 49,0.0188147
+Colombia,COL,15 to 49,0.09272252
+Comoros,COM,15 to 49,0.001880382
+Congo,COG,15 to 49,2.374238547
+Costa Rica,CRI,15 to 49,0.063496013
+Cote d'Ivoire,CIV,15 to 49,2.819316305
+Croatia,HRV,15 to 49,0.004107985
+Cuba,CUB,15 to 49,0.038928894
+Cyprus,CYP,15 to 49,0.003504164
+Czechia,CZE,15 to 49,0.001845975
+Democratic Republic of Congo,COD,15 to 49,0.78349758
+Denmark,DNK,15 to 49,0.016269889
+Djibouti,DJI,15 to 49,1.491438098
+Dominica,DMA,15 to 49,0.197749554
+Dominican Republic,DOM,15 to 49,0.475111317
+Ecuador,ECU,15 to 49,0.094125261
+Egypt,EGY,15 to 49,0.001555962
+El Salvador,SLV,15 to 49,0.17278862
+Equatorial Guinea,GNQ,15 to 49,1.579445745
+Eritrea,ERI,15 to 49,#DIV/0!
+Estonia,EST,15 to 49,0.046350204
+Eswatini,SWZ,15 to 49,9.636514237
+Ethiopia,ETH,15 to 49,1.028866076
+Fiji,FJI,15 to 49,0.023147238
+Finland,FIN,15 to 49,0.003060704
+France,FRA,15 to 49,0.0555652
+Gabon,GAB,15 to 49,1.36483017
+Gambia,GMB,15 to 49,0.701027731
+Georgia,GEO,15 to 49,0.007311512
+Germany,DEU,15 to 49,0.022484455
+Ghana,GHA,15 to 49,1.111876451
+Greece,GRC,15 to 49,0.006734081
+Greenland,GRL,15 to 49,0.08181414
+Grenada,GRD,15 to 49,0.132140497
+Guam,GUM,15 to 49,0.05977465
+Guatemala,GTM,15 to 49,0.072500489
+Guinea,GIN,15 to 49,0.510968155
+Guinea-Bissau,GNB,15 to 49,1.026332736
+Guyana,GUY,15 to 49,0.684360129
+Haiti,HTI,15 to 49,1.783073705
+Honduras,HND,15 to 49,0.027292926
+Hungary,HUN,15 to 49,0.017776839
+Iceland,ISL,15 to 49,0.01164845
+India,IND,15 to 49,0.14887387
+Indonesia,IDN,15 to 49,0.020339172
+Iran,IRN,15 to 49,0.010477134
+Iraq,IRQ,15 to 49,0.002045292
+Ireland,IRL,15 to 49,0.008511777
+Israel,ISR,15 to 49,0.007388999
+Italy,ITA,15 to 49,0.065221161
+Jamaica,JAM,15 to 49,0.337281741
+Japan,JPN,15 to 49,0.001121351
+Jordan,JOR,15 to 49,0.002217449
+Kazakhstan,KAZ,15 to 49,0.037761281
+Kenya,KEN,15 to 49,3.316331446
+Kiribati,KIR,15 to 49,0.022957622
+Kuwait,KWT,15 to 49,0.001140935
+Kyrgyzstan,KGZ,15 to 49,0.046079737
+Laos,LAO,15 to 49,0.05650359
+Latvia,LVA,15 to 49,0.128852109
+Lebanon,LBN,15 to 49,0.015009389
+Lesotho,LSO,15 to 49,10.61508977
+Liberia,LBR,15 to 49,0.737659331
+Libya,LBY,15 to 49,0.013751479
+Lithuania,LTU,15 to 49,0.044450218
+Luxembourg,LUX,15 to 49,0.016612876
+Madagascar,MDG,15 to 49,0.091982345
+Malawi,MWI,15 to 49,4.428826649
+Malaysia,MYS,15 to 49,0.114435811
+Maldives,MDV,15 to 49,0.000753357
+Mali,MLI,15 to 49,0.470672966
+Malta,MLT,15 to 49,0.009721026
+Marshall Islands,MHL,15 to 49,0.061233862
+Mauritania,MRT,15 to 49,0.015599804
+Mauritius,MUS,15 to 49,0.076952796
+Mexico,MEX,15 to 49,0.090674913
+Micronesia (country),FSM,15 to 49,0.216147824
+Moldova,MDA,15 to 49,0.17336004
+Monaco,MCO,15 to 49,0
+Mongolia,MNG,15 to 49,0.003069609
+Montenegro,MNE,15 to 49,0.005948285
+Morocco,MAR,15 to 49,0.026116092
+Mozambique,MOZ,15 to 49,3.181412211
+Myanmar,MMR,15 to 49,0.361642102
+Namibia,NAM,15 to 49,4.221967798
+Nauru,NRU,15 to 49,0.02787068
+Nepal,NPL,15 to 49,0.081181556
+Netherlands,NLD,15 to 49,0.021591394
+New Zealand,NZL,15 to 49,0.01030286
+Nicaragua,NIC,15 to 49,0.070032815
+Niger,NER,15 to 49,0.204764169
+Nigeria,NGA,15 to 49,0.782944263
+North Korea,PRK,15 to 49,0.023680989
+North Macedonia,MKD,15 to 49,0.001492757
+Northern Mariana Islands,MNP,15 to 49,0.027965672
+Norway,NOR,15 to 49,0.008769804
+Oman,OMN,15 to 49,0.020703551
+Pakistan,PAK,15 to 49,0.011068254
+Palau,PLW,15 to 49,0.055552469
+Palestine,PSE,15 to 49,0.003073439
+Panama,PAN,15 to 49,0.243945517
+Papua New Guinea,PNG,15 to 49,0.532581657
+Paraguay,PRY,15 to 49,0.089316145
+Peru,PER,15 to 49,0.110275271
+Philippines,PHL,15 to 49,0.070697732
+Poland,POL,15 to 49,0.006613904
+Portugal,PRT,15 to 49,0.180561201
+Puerto Rico,PRI,15 to 49,0.48999685
+Qatar,QAT,15 to 49,0.002542309
+Romania,ROU,15 to 49,0.015295549
+Russia,RUS,15 to 49,0.215646467
+Rwanda,RWA,15 to 49,1.252354292
+Saint Kitts and Nevis,KNA,15 to 49,0.617026914
+Saint Lucia,LCA,15 to 49,0.106676878
+Saint Vincent and the Grenadines,VCT,15 to 49,0.48194732
+Samoa,WSM,15 to 49,0.058855464
+San Marino,SMR,15 to 49,0
+Sao Tome and Principe,STP,15 to 49,0.004650125
+Saudi Arabia,SAU,15 to 49,0.02328959
+Senegal,SEN,15 to 49,0.27315299
+Serbia,SRB,15 to 49,0.017335627
+Seychelles,SYC,15 to 49,0.085019206
+Sierra Leone,SLE,15 to 49,0.588669928
+Singapore,SGP,15 to 49,0.013237326
+Slovakia,SVK,15 to 49,0.001485108
+Slovenia,SVN,15 to 49,0.003734944
+Solomon Islands,SLB,15 to 49,0.049416187
+Somalia,SOM,15 to 49,0.352634407
+South Africa,ZAF,15 to 49,6.059115445
+South Korea,KOR,15 to 49,0.00251329
+South Sudan,SSD,15 to 49,0.758914616
+Spain,ESP,15 to 49,0.1082469
+Sri Lanka,LKA,15 to 49,0.0058203
+Sudan,SDN,15 to 49,0.153536627
+Suriname,SUR,15 to 49,0.437076319
+Sweden,SWE,15 to 49,0.008356936
+Switzerland,CHE,15 to 49,0.025375265
+Syria,SYR,15 to 49,0.001827754
+Tajikistan,TJK,15 to 49,0.020212374
+Tanzania,TZA,15 to 49,2.913203293
+Thailand,THA,15 to 49,0.661370424
+Timor,TLS,15 to 49,0.259527345
+Togo,TGO,15 to 49,1.54595954
+Tonga,TON,15 to 49,0.022010201
+Trinidad and Tobago,TTO,15 to 49,0.470548091
+Tunisia,TUN,15 to 49,0.012569774
+Turkey,TUR,15 to 49,0.00203405
+Turkmenistan,TKM,15 to 49,0.063378331
+Tuvalu,TUV,15 to 49,0.034320034
+Uganda,UGA,15 to 49,2.940115524
+Ukraine,UKR,15 to 49,0.353071426
+United Arab Emirates,ARE,15 to 49,0.014820082
+United Kingdom,GBR,15 to 49,0.011885752
+United States,USA,15 to 49,0.119456357
+United States Virgin Islands,VIR,15 to 49,0.189370858
+Uruguay,URY,15 to 49,0.080999939
+Uzbekistan,UZB,15 to 49,0.032411812
+Vanuatu,VUT,15 to 49,0.049019281
+Venezuela,VEN,15 to 49,0.125095434
+Vietnam,VNM,15 to 49,0.142982569
+Yemen,YEM,15 to 49,0.012070535
+Zambia,ZMB,15 to 49,4.323921
+Zimbabwe,ZWE,15 to 49,8.591221328
+Afghanistan,AFG,50 to 69,0.001217084
+Albania,ALB,50 to 69,0.000560579
+Algeria,DZA,50 to 69,0.002771
+American Samoa,ASM,50 to 69,0
+Andorra,AND,50 to 69,0.036294818
+Angola,AGO,50 to 69,0.101227643
+Antigua and Barbuda,ATG,50 to 69,0.060752716
+Argentina,ARG,50 to 69,0.020011699
+Armenia,ARM,50 to 69,0.001724296
+Australia,AUS,50 to 69,0.006031757
+Austria,AUT,50 to 69,0.00512392
+Azerbaijan,AZE,50 to 69,0.001167166
+Bahamas,BHS,50 to 69,0.210020386
+Bahrain,BHR,50 to 69,0.003595009
+Bangladesh,BGD,50 to 69,0.00040602
+Barbados,BRB,50 to 69,0.08814686
+Belarus,BLR,50 to 69,0.009649929
+Belgium,BEL,50 to 69,0.009382904
+Belize,BLZ,50 to 69,0.067887619
+Benin,BEN,50 to 69,0.078721135
+Bermuda,BMU,50 to 69,0.140820829
+Bhutan,BTN,50 to 69,0.0129735
+Bolivia,BOL,50 to 69,0.024198517
+Bosnia and Herzegovina,BIH,50 to 69,0.001211755
+Botswana,BWA,50 to 69,1.711201487
+Brazil,BRA,50 to 69,0.037565118
+Brunei,BRN,50 to 69,0.004846571
+Bulgaria,BGR,50 to 69,0.010264113
+Burkina Faso,BFA,50 to 69,0.262324666
+Burundi,BDI,50 to 69,0.402347602
+Cambodia,KHM,50 to 69,0.090552646
+Cameroon,CMR,50 to 69,0.40970171
+Canada,CAN,50 to 69,0.009983716
+Cape Verde,CPV,50 to 69,0.081827704
+Central African Republic,CAF,50 to 69,0.873328488
+Chad,TCD,50 to 69,0.114398539
+Chile,CHL,50 to 69,0.014673886
+China,CHN,50 to 69,0.008096495
+Colombia,COL,50 to 69,0.026061075
+Comoros,COM,50 to 69,0
+Congo,COG,50 to 69,0.486683032
+Costa Rica,CRI,50 to 69,0.01931626
+Cote d'Ivoire,CIV,50 to 69,0.555338791
+Croatia,HRV,50 to 69,0.002730457
+Cuba,CUB,50 to 69,0.011708668
+Cyprus,CYP,50 to 69,0.002753272
+Czechia,CZE,50 to 69,0.001218156
+Democratic Republic of Congo,COD,50 to 69,0.169926299
+Denmark,DNK,50 to 69,0.008410122
+Djibouti,DJI,50 to 69,0.298595768
+Dominica,DMA,50 to 69,0.045955882
+Dominican Republic,DOM,50 to 69,0.115039105
+Ecuador,ECU,50 to 69,0.017089091
+Egypt,EGY,50 to 69,0.000556839
+El Salvador,SLV,50 to 69,0.052684182
+Equatorial Guinea,GNQ,50 to 69,0.279797224
+Eritrea,ERI,50 to 69,#DIV/0!
+Estonia,EST,50 to 69,0.005200267
+Eswatini,SWZ,50 to 69,1.785594526
+Ethiopia,ETH,50 to 69,0.203498029
+Fiji,FJI,50 to 69,0.003146226
+Finland,FIN,50 to 69,0.002825265
+France,FRA,50 to 69,0.017632995
+Gabon,GAB,50 to 69,0.314142921
+Gambia,GMB,50 to 69,0.131490619
+Georgia,GEO,50 to 69,0.002177325
+Germany,DEU,50 to 69,0.010402806
+Ghana,GHA,50 to 69,0.242101203
+Greece,GRC,50 to 69,0.002210495
+Greenland,GRL,50 to 69,0.053357048
+Grenada,GRD,50 to 69,0.047320584
+Guam,GUM,50 to 69,0.020921127
+Guatemala,GTM,50 to 69,0.018959257
+Guinea,GIN,50 to 69,0.119408866
+Guinea-Bissau,GNB,50 to 69,0.196624841
+Guyana,GUY,50 to 69,0.130688895
+Haiti,HTI,50 to 69,0.420719769
+Honduras,HND,50 to 69,0.006546198
+Hungary,HUN,50 to 69,0.018298784
+Iceland,ISL,50 to 69,0.001109376
+India,IND,50 to 69,0.018482049
+Indonesia,IDN,50 to 69,0.002048587
+Iran,IRN,50 to 69,0.002447117
+Iraq,IRQ,50 to 69,0.00030018
+Ireland,IRL,50 to 69,0.001499694
+Israel,ISR,50 to 69,0.003777336
+Italy,ITA,50 to 69,0.013176161
+Jamaica,JAM,50 to 69,0.099481833
+Japan,JPN,50 to 69,0.002612273
+Jordan,JOR,50 to 69,0.000564262
+Kazakhstan,KAZ,50 to 69,0.002630488
+Kenya,KEN,50 to 69,0.723337084
+Kiribati,KIR,50 to 69,0
+Kuwait,KWT,50 to 69,7.13E-05
+Kyrgyzstan,KGZ,50 to 69,0.005080388
+Laos,LAO,50 to 69,0.016054217
+Latvia,LVA,50 to 69,0.028163539
+Lebanon,LBN,50 to 69,0.005717862
+Lesotho,LSO,50 to 69,2.724175362
+Liberia,LBR,50 to 69,0.13539586
+Libya,LBY,50 to 69,0.002685375
+Lithuania,LTU,50 to 69,0.01896829
+Luxembourg,LUX,50 to 69,0.005645152
+Madagascar,MDG,50 to 69,0.018001946
+Malawi,MWI,50 to 69,0.8932967
+Malaysia,MYS,50 to 69,0.023718466
+Maldives,MDV,50 to 69,0
+Mali,MLI,50 to 69,0.114258692
+Malta,MLT,50 to 69,0.003769378
+Marshall Islands,MHL,50 to 69,0.011906584
+Mauritania,MRT,50 to 69,0.006518332
+Mauritius,MUS,50 to 69,0.021410891
+Mexico,MEX,50 to 69,0.019511579
+Micronesia (country),FSM,50 to 69,0.078199823
+Moldova,MDA,50 to 69,0.013396003
+Monaco,MCO,50 to 69,0
+Mongolia,MNG,50 to 69,0.001674332
+Montenegro,MNE,50 to 69,0.00144688
+Morocco,MAR,50 to 69,0.007112351
+Mozambique,MOZ,50 to 69,0.563073035
+Myanmar,MMR,50 to 69,0.077766069
+Namibia,NAM,50 to 69,0.96960382
+Nauru,NRU,50 to 69,0
+Nepal,NPL,50 to 69,0.021989803
+Netherlands,NLD,50 to 69,0.007316283
+New Zealand,NZL,50 to 69,0.002791613
+Nicaragua,NIC,50 to 69,0.011412416
+Niger,NER,50 to 69,0.043799593
+Nigeria,NGA,50 to 69,0.169630219
+North Korea,PRK,50 to 69,0.008271592
+North Macedonia,MKD,50 to 69,4.82E-05
+Northern Mariana Islands,MNP,50 to 69,0
+Norway,NOR,50 to 69,0.004992618
+Oman,OMN,50 to 69,0.005788954
+Pakistan,PAK,50 to 69,0.002493936
+Palau,PLW,50 to 69,0.005555247
+Palestine,PSE,50 to 69,0.000234777
+Panama,PAN,50 to 69,0.060874521
+Papua New Guinea,PNG,50 to 69,0.108020413
+Paraguay,PRY,50 to 69,0.023308505
+Peru,PER,50 to 69,0.019116923
+Philippines,PHL,50 to 69,0.014316023
+Poland,POL,50 to 69,0.001672572
+Portugal,PRT,50 to 69,0.042950486
+Puerto Rico,PRI,50 to 69,0.131571779
+Qatar,QAT,50 to 69,0.000670887
+Romania,ROU,50 to 69,0.003314122
+Russia,RUS,50 to 69,0.017638432
+Rwanda,RWA,50 to 69,0.263072488
+Saint Kitts and Nevis,KNA,50 to 69,0.200628383
+Saint Lucia,LCA,50 to 69,0.027353046
+Saint Vincent and the Grenadines,VCT,50 to 69,0.108505963
+Samoa,WSM,50 to 69,0.020802362
+San Marino,SMR,50 to 69,0
+Sao Tome and Principe,STP,50 to 69,0
+Saudi Arabia,SAU,50 to 69,0.005083381
+Senegal,SEN,50 to 69,0.064535876
+Serbia,SRB,50 to 69,0.005644157
+Seychelles,SYC,50 to 69,0.030729834
+Sierra Leone,SLE,50 to 69,0.104592135
+Singapore,SGP,50 to 69,0.007784599
+Slovakia,SVK,50 to 69,0.000531706
+Slovenia,SVN,50 to 69,0.001149213
+Solomon Islands,SLB,50 to 69,0.012540664
+Somalia,SOM,50 to 69,0.074046944
+South Africa,ZAF,50 to 69,1.365166766
+South Korea,KOR,50 to 69,0.002314313
+South Sudan,SSD,50 to 69,0.134766284
+Spain,ESP,50 to 69,0.016832561
+Sri Lanka,LKA,50 to 69,0.001875889
+Sudan,SDN,50 to 69,0.029901967
+Suriname,SUR,50 to 69,0.099249522
+Sweden,SWE,50 to 69,0.00449465
+Switzerland,CHE,50 to 69,0.007066825
+Syria,SYR,50 to 69,0.00025776
+Tajikistan,TJK,50 to 69,0.004259189
+Tanzania,TZA,50 to 69,0.607884144
+Thailand,THA,50 to 69,0.192063029
+Timor,TLS,50 to 69,0.101692032
+Togo,TGO,50 to 69,0.310317817
+Tonga,TON,50 to 69,0
+Trinidad and Tobago,TTO,50 to 69,0.116131613
+Tunisia,TUN,50 to 69,0.003924848
+Turkey,TUR,50 to 69,0.000827045
+Turkmenistan,TKM,50 to 69,0.002053148
+Tuvalu,TUV,50 to 69,0
+Uganda,UGA,50 to 69,0.572284535
+Ukraine,UKR,50 to 69,0.043004354
+United Arab Emirates,ARE,50 to 69,0.002098147
+United Kingdom,GBR,50 to 69,0.004267141
+United States,USA,50 to 69,0.037605463
+United States Virgin Islands,VIR,50 to 69,0.11062258
+Uruguay,URY,50 to 69,0.032642629
+Uzbekistan,UZB,50 to 69,0.002882638
+Vanuatu,VUT,50 to 69,0.014005509
+Venezuela,VEN,50 to 69,0.027405831
+Vietnam,VNM,50 to 69,0.008015583
+Yemen,YEM,50 to 69,0.002654146
+Zambia,ZMB,50 to 69,0.757419755
+Zimbabwe,ZWE,50 to 69,1.838513512
+Afghanistan,AFG,70+,0.00018138
+Albania,ALB,70+,0
+Algeria,DZA,70+,0.000336794
+American Samoa,ASM,70+,0
+Andorra,AND,70+,0
+Angola,AGO,70+,0.00717668
+Antigua and Barbuda,ATG,70+,0
+Argentina,ARG,70+,0.001103725
+Armenia,ARM,70+,0
+Australia,AUS,70+,0.000283847
+Austria,AUT,70+,0.000394148
+Azerbaijan,AZE,70+,0
+Bahamas,BHS,70+,0.013350929
+Bahrain,BHR,70+,0
+Bangladesh,BGD,70+,5.70E-05
+Barbados,BRB,70+,0.015329889
+Belarus,BLR,70+,0
+Belgium,BEL,70+,0.000591872
+Belize,BLZ,70+,0.007173031
+Benin,BEN,70+,0.008482223
+Bermuda,BMU,70+,0.004694028
+Bhutan,BTN,70+,0.001310455
+Bolivia,BOL,70+,0.002874985
+Bosnia and Herzegovina,BIH,70+,0
+Botswana,BWA,70+,0.168467897
+Brazil,BRA,70+,0.001963994
+Brunei,BRN,70+,0
+Bulgaria,BGR,70+,0
+Burkina Faso,BFA,70+,0.026700939
+Burundi,BDI,70+,0.036303474
+Cambodia,KHM,70+,0.010147671
+Cameroon,CMR,70+,0.038200851
+Canada,CAN,70+,0.00041488
+Cape Verde,CPV,70+,0.013456111
+Central African Republic,CAF,70+,0.060882846
+Chad,TCD,70+,0.012403679
+Chile,CHL,70+,0.001134443
+China,CHN,70+,0.002348792
+Colombia,COL,70+,0.001756078
+Comoros,COM,70+,0
+Congo,COG,70+,0.042969952
+Costa Rica,CRI,70+,0.001069824
+Cote d'Ivoire,CIV,70+,0.042276271
+Croatia,HRV,70+,0
+Cuba,CUB,70+,0.000617639
+Cyprus,CYP,70+,0.000417162
+Czechia,CZE,70+,9.37E-05
+Democratic Republic of Congo,COD,70+,0.014980891
+Denmark,DNK,70+,0.000584753
+Djibouti,DJI,70+,0.019002483
+Dominica,DMA,70+,0
+Dominican Republic,DOM,70+,0.013921277
+Ecuador,ECU,70+,0.00143896
+Egypt,EGY,70+,4.48E-05
+El Salvador,SLV,70+,0.010288911
+Equatorial Guinea,GNQ,70+,0.026180289
+Eritrea,ERI,70+,#DIV/0!
+Estonia,EST,70+,0
+Eswatini,SWZ,70+,0.167576404
+Ethiopia,ETH,70+,0.018909922
+Fiji,FJI,70+,0
+Finland,FIN,70+,0
+France,FRA,70+,0.000532351
+Gabon,GAB,70+,0.03557985
+Gambia,GMB,70+,0.016271272
+Georgia,GEO,70+,0
+Germany,DEU,70+,0.000622195
+Ghana,GHA,70+,0.022427615
+Greece,GRC,70+,8.39E-05
+Greenland,GRL,70+,0
+Grenada,GRD,70+,0
+Guam,GUM,70+,0
+Guatemala,GTM,70+,0.000782943
+Guinea,GIN,70+,0.015965553
+Guinea-Bissau,GNB,70+,0.017387529
+Guyana,GUY,70+,0.00804829
+Haiti,HTI,70+,0.041480664
+Honduras,HND,70+,0.000297554
+Hungary,HUN,70+,0
+Iceland,ISL,70+,0
+India,IND,70+,0.000420662
+Indonesia,IDN,70+,0.000215427
+Iran,IRN,70+,0.000324433
+Iraq,IRQ,70+,2.54E-06
+Ireland,IRL,70+,0
+Israel,ISR,70+,0.000552242
+Italy,ITA,70+,0.000765121
+Jamaica,JAM,70+,0.006207015
+Japan,JPN,70+,0.000106607
+Jordan,JOR,70+,9.90E-06
+Kazakhstan,KAZ,70+,0
+Kenya,KEN,70+,0.065842473
+Kiribati,KIR,70+,0
+Kuwait,KWT,70+,0
+Kyrgyzstan,KGZ,70+,0
+Laos,LAO,70+,0.002273534
+Latvia,LVA,70+,0
+Lebanon,LBN,70+,0.001021047
+Lesotho,LSO,70+,0.313937025
+Liberia,LBR,70+,0.015311783
+Libya,LBY,70+,0.000295096
+Lithuania,LTU,70+,0
+Luxembourg,LUX,70+,0
+Madagascar,MDG,70+,0.001331143
+Malawi,MWI,70+,0.097204595
+Malaysia,MYS,70+,0.000841946
+Maldives,MDV,70+,0
+Mali,MLI,70+,0.011939146
+Malta,MLT,70+,0
+Marshall Islands,MHL,70+,0
+Mauritania,MRT,70+,0.00212122
+Mauritius,MUS,70+,0.000632056
+Mexico,MEX,70+,0.001040168
+Micronesia (country),FSM,70+,0.008786497
+Moldova,MDA,70+,0
+Monaco,MCO,70+,0
+Mongolia,MNG,70+,0
+Montenegro,MNE,70+,0
+Morocco,MAR,70+,0.000932228
+Mozambique,MOZ,70+,0.054040627
+Myanmar,MMR,70+,0.009591932
+Namibia,NAM,70+,0.129122831
+Nauru,NRU,70+,0
+Nepal,NPL,70+,0.002701974
+Netherlands,NLD,70+,0.000270973
+New Zealand,NZL,70+,0.000140585
+Nicaragua,NIC,70+,0.00091666
+Niger,NER,70+,0.003513405
+Nigeria,NGA,70+,0.016580117
+North Korea,PRK,70+,0.001348079
+North Macedonia,MKD,70+,0
+Northern Mariana Islands,MNP,70+,0
+Norway,NOR,70+,0.000130893
+Oman,OMN,70+,0.000221106
+Pakistan,PAK,70+,0.000296908
+Palau,PLW,70+,0
+Palestine,PSE,70+,0
+Panama,PAN,70+,0.004968868
+Papua New Guinea,PNG,70+,0.008169898
+Paraguay,PRY,70+,0.001604057
+Peru,PER,70+,0.003374298
+Philippines,PHL,70+,1.85E-05
+Poland,POL,70+,5.27E-05
+Portugal,PRT,70+,0.004316436
+Puerto Rico,PRI,70+,0.010395486
+Qatar,QAT,70+,0
+Romania,ROU,70+,0.000263271
+Russia,RUS,70+,0.000149578
+Rwanda,RWA,70+,0.023022209
+Saint Kitts and Nevis,KNA,70+,0.017034485
+Saint Lucia,LCA,70+,0
+Saint Vincent and the Grenadines,VCT,70+,0.015371678
+Samoa,WSM,70+,0
+San Marino,SMR,70+,0
+Sao Tome and Principe,STP,70+,0
+Saudi Arabia,SAU,70+,0.000423129
+Senegal,SEN,70+,0.006713155
+Serbia,SRB,70+,0.000503943
+Seychelles,SYC,70+,0
+Sierra Leone,SLE,70+,0.012453273
+Singapore,SGP,70+,0.000525986
+Slovakia,SVK,70+,0
+Slovenia,SVN,70+,0
+Solomon Islands,SLB,70+,0.001045055
+Somalia,SOM,70+,0.004578154
+South Africa,ZAF,70+,0.146336298
+South Korea,KOR,70+,0.000343863
+South Sudan,SSD,70+,0.012221895
+Spain,ESP,70+,0.000899547
+Sri Lanka,LKA,70+,9.17E-05
+Sudan,SDN,70+,0.003248995
+Suriname,SUR,70+,0.008944498
+Sweden,SWE,70+,0.00029186
+Switzerland,CHE,70+,0.000956237
+Syria,SYR,70+,0
+Tajikistan,TJK,70+,1.07E-05
+Tanzania,TZA,70+,0.065774841
+Thailand,THA,70+,0.011418217
+Timor,TLS,70+,0.015621133
+Togo,TGO,70+,0.023743068
+Tonga,TON,70+,0
+Trinidad and Tobago,TTO,70+,0.003871054
+Tunisia,TUN,70+,0.000504501
+Turkey,TUR,70+,0.000135444
+Turkmenistan,TKM,70+,0
+Tuvalu,TUV,70+,0
+Uganda,UGA,70+,0.053002527
+Ukraine,UKR,70+,0.000128418
+United Arab Emirates,ARE,70+,0.001340767
+United Kingdom,GBR,70+,0.000224429
+United States,USA,70+,0.002039716
+United States Virgin Islands,VIR,70+,0.000937479
+Uruguay,URY,70+,0.011468251
+Uzbekistan,UZB,70+,0
+Vanuatu,VUT,70+,0.004668503
+Venezuela,VEN,70+,0.001991876
+Vietnam,VNM,70+,0.000359727
+Yemen,YEM,70+,0.000325767
+Zambia,ZMB,70+,0.077621486
+Zimbabwe,ZWE,70+,0.202021471
