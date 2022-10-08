@@ -1,4 +1,4 @@
-country,Code,year,Incidence - HIV/AIDS - Sex: Both - Age: All Ages (Number),Pop,Infected_percent_pop
+country,code,YEAR,Incidence,Pop,Infected_percent_pop
 Botswana,BWA,1994,34764,1434061,2.424164662
 Eswatini,SWZ,1999,23934,994105,2.407592759
 Eswatini,SWZ,1998,23456,979922,2.393659904
