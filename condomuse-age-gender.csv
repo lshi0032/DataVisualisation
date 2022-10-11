@@ -1,0 +1,319 @@
+country,code,Age,Sex,Condom use
+Albania,ALB,17,1,55.6
+Albania,ALB,22,1,54
+Albania,ALB,35,1,47.7
+Albania,ALB,17,2,20.3
+Albania,ALB,22,2,28.8
+Albania,ALB,35,2,24
+Angola,AGO,17,1,51.7
+Angola,AGO,22,1,52.9
+Angola,AGO,35,1,53.5
+Angola,AGO,17,2,35.7
+Angola,AGO,22,2,29.8
+Angola,AGO,35,2,20
+Armenia,ARM,17,1,84.2
+Armenia,ARM,22,1,87.1
+Armenia,ARM,35,1,66.3
+Armenia,ARM,17,2,0
+Armenia,ARM,22,2,0
+Armenia,ARM,35,2,15.8
+Benin,BEN,17,1,40.8
+Benin,BEN,22,1,49.1
+Benin,BEN,35,1,46.4
+Benin,BEN,17,2,37.4
+Benin,BEN,22,2,38.4
+Benin,BEN,35,2,26.9
+Bolivia,BOL,17,1,37.7
+Bolivia,BOL,22,1,36.9
+Bolivia,BOL,35,1,32.3
+Bolivia,BOL,17,2,22.5
+Bolivia,BOL,22,2,20.5
+Bolivia,BOL,35,2,18
+Burkina Faso,BFA,17,1,67.7
+Burkina Faso,BFA,22,1,77.9
+Burkina Faso,BFA,35,1,73.7
+Burkina Faso,BFA,17,2,52.6
+Burkina Faso,BFA,22,2,70.7
+Burkina Faso,BFA,35,2,52.4
+Burundi,BDI,17,1,37.3
+Burundi,BDI,22,1,51.7
+Burundi,BDI,35,1,46.5
+Burundi,BDI,17,2,21.6
+Burundi,BDI,22,2,32.5
+Burundi,BDI,35,2,17
+Cambodia,KHM,17,1,51.7
+Cambodia,KHM,22,1,76.8
+Cambodia,KHM,35,1,74.5
+Cambodia,KHM,17,2,0
+Cambodia,KHM,22,2,64.5
+Cambodia,KHM,35,2,0
+Cameroon,CMR,17,1,72.6
+Cameroon,CMR,22,1,79
+Cameroon,CMR,35,1,70.9
+Cameroon,CMR,17,2,58.8
+Cameroon,CMR,22,2,62.9
+Cameroon,CMR,35,2,45.5
+Chad,TCD,17,1,29.7
+Chad,TCD,22,1,46.3
+Chad,TCD,35,1,40.4
+Chad,TCD,17,2,34.3
+Chad,TCD,22,2,38.4
+Chad,TCD,35,2,21.9
+Colombia,COL,17,1,80.1
+Colombia,COL,22,1,75.2
+Colombia,COL,35,1,64.7
+Colombia,COL,17,2,0
+Colombia,COL,22,2,0
+Colombia,COL,35,2,0
+Comoros,COM,17,1,55
+Comoros,COM,22,1,66.1
+Comoros,COM,35,1,58.2
+Comoros,COM,17,2,34.2
+Comoros,COM,22,2,30.8
+Comoros,COM,35,2,25
+Congo,COG,17,1,56.8
+Congo,COG,22,1,63.6
+Congo,COG,35,1,56.5
+Congo,COG,17,2,42.2
+Congo,COG,22,2,43
+Congo,COG,35,2,32.3
+Cote d'Ivoire,CIV,17,1,67.5
+Cote d'Ivoire,CIV,22,1,66.7
+Cote d'Ivoire,CIV,35,1,59.3
+Cote d'Ivoire,CIV,17,2,44.1
+Cote d'Ivoire,CIV,22,2,38.6
+Cote d'Ivoire,CIV,35,2,32.5
+Democratic Republic of Congo,COD,17,1,28.1
+Democratic Republic of Congo,COD,22,1,32.4
+Democratic Republic of Congo,COD,35,1,30.8
+Democratic Republic of Congo,COD,17,2,21.9
+Democratic Republic of Congo,COD,22,2,26.6
+Democratic Republic of Congo,COD,35,2,20.2
+Dominican Republic,DOM,17,1,75.9
+Dominican Republic,DOM,22,1,70.9
+Dominican Republic,DOM,35,1,69.4
+Dominican Republic,DOM,17,2,48.5
+Dominican Republic,DOM,22,2,48.5
+Dominican Republic,DOM,35,2,41.4
+Eswatini,SWZ,17,1,68.8
+Eswatini,SWZ,22,1,69.8
+Eswatini,SWZ,35,1,65.4
+Eswatini,SWZ,17,2,51.5
+Eswatini,SWZ,22,2,55.3
+Eswatini,SWZ,35,2,54.1
+Ethiopia,ETH,17,1,58.6
+Ethiopia,ETH,22,1,69.9
+Ethiopia,ETH,35,1,64.9
+Ethiopia,ETH,17,2,40.6
+Ethiopia,ETH,22,2,27.9
+Ethiopia,ETH,35,2,25.8
+Gabon,GAB,17,1,78.7
+Gabon,GAB,22,1,77.6
+Gabon,GAB,35,1,72.5
+Gabon,GAB,17,2,62.6
+Gabon,GAB,22,2,58
+Gabon,GAB,35,2,47.1
+Gambia,GMB,17,1,45.2
+Gambia,GMB,22,1,66.6
+Gambia,GMB,35,1,76.4
+Gambia,GMB,17,2,27.9
+Gambia,GMB,22,2,26.3
+Gambia,GMB,35,2,38.8
+Ghana,GHA,17,1,36.7
+Ghana,GHA,22,1,40.8
+Ghana,GHA,35,1,39
+Ghana,GHA,17,2,20.3
+Ghana,GHA,22,2,18.4
+Ghana,GHA,35,2,14.4
+Guatemala,GTM,17,1,71
+Guatemala,GTM,22,1,70.6
+Guatemala,GTM,35,1,62.5
+Guatemala,GTM,17,2,36.4
+Guatemala,GTM,22,2,35.8
+Guatemala,GTM,35,2,23
+Guinea,GIN,17,1,42.2
+Guinea,GIN,22,1,59.5
+Guinea,GIN,35,1,52.7
+Guinea,GIN,17,2,21.2
+Guinea,GIN,22,2,45.6
+Guinea,GIN,35,2,36.9
+Guyana,GUY,17,1,85.2
+Guyana,GUY,22,1,73.3
+Guyana,GUY,35,1,65.6
+Guyana,GUY,17,2,58.9
+Guyana,GUY,22,2,53.3
+Guyana,GUY,35,2,49.1
+Haiti,HTI,17,1,60
+Haiti,HTI,22,1,71.5
+Haiti,HTI,35,1,61.1
+Haiti,HTI,17,2,57.8
+Haiti,HTI,22,2,53.6
+Haiti,HTI,35,2,42.4
+Honduras,HND,17,1,73.6
+Honduras,HND,22,1,60.7
+Honduras,HND,35,1,52.5
+Honduras,HND,17,2,0
+Honduras,HND,22,2,0
+Honduras,HND,35,2,0
+India,IND,17,1,31.3
+India,IND,22,1,40.7
+India,IND,35,1,40.5
+India,IND,17,2,20
+India,IND,22,2,25.1
+India,IND,35,2,10
+Kenya,KEN,17,1,66.8
+Kenya,KEN,22,1,79.1
+Kenya,KEN,35,1,71.3
+Kenya,KEN,17,2,54.9
+Kenya,KEN,22,2,61.4
+Kenya,KEN,35,2,52.4
+Kyrgyzstan,KGZ,17,1,90.5
+Kyrgyzstan,KGZ,22,1,80.9
+Kyrgyzstan,KGZ,35,1,68.1
+Kyrgyzstan,KGZ,17,2,0
+Kyrgyzstan,KGZ,22,2,49.1
+Kyrgyzstan,KGZ,35,2,22.4
+Lesotho,LSO,17,1,76.9
+Lesotho,LSO,22,1,80.1
+Lesotho,LSO,35,1,74.3
+Lesotho,LSO,17,2,79.7
+Lesotho,LSO,22,2,83.5
+Lesotho,LSO,35,2,71.5
+Liberia,LBR,17,1,36.8
+Liberia,LBR,22,1,50.2
+Liberia,LBR,35,1,39.1
+Liberia,LBR,17,2,23.1
+Liberia,LBR,22,2,20.7
+Liberia,LBR,35,2,17.2
+Madagascar,MDG,17,1,9.4
+Madagascar,MDG,22,1,13.1
+Madagascar,MDG,35,1,15.3
+Madagascar,MDG,17,2,4.7
+Madagascar,MDG,22,2,5.8
+Madagascar,MDG,35,2,4.8
+Malawi,MWI,17,1,71
+Malawi,MWI,22,1,82.9
+Malawi,MWI,35,1,75.4
+Malawi,MWI,17,2,55.3
+Malawi,MWI,22,2,50.1
+Malawi,MWI,35,2,43.3
+Mali,MLI,17,1,31
+Mali,MLI,22,1,35.4
+Mali,MLI,35,1,44.2
+Mali,MLI,17,2,18.2
+Mali,MLI,22,2,21
+Mali,MLI,35,2,0
+Moldova,MDA,17,1,68.7
+Moldova,MDA,22,1,57.8
+Moldova,MDA,35,1,38.6
+Moldova,MDA,17,2,48.7
+Moldova,MDA,22,2,40.7
+Moldova,MDA,35,2,21.3
+Mozambique,MOZ,17,1,40.3
+Mozambique,MOZ,22,1,47.5
+Mozambique,MOZ,35,1,37.8
+Mozambique,MOZ,17,2,41.3
+Mozambique,MOZ,22,2,39.7
+Mozambique,MOZ,35,2,26.5
+Namibia,NAM,17,1,82.2
+Namibia,NAM,22,1,81.9
+Namibia,NAM,35,1,77.9
+Namibia,NAM,17,2,67.4
+Namibia,NAM,22,2,67.6
+Namibia,NAM,35,2,63.7
+Nicaragua,NIC,17,1,0
+Nicaragua,NIC,22,1,0
+Nicaragua,NIC,35,1,0
+Nicaragua,NIC,17,2,10.4
+Nicaragua,NIC,22,2,22.8
+Nicaragua,NIC,35,2,10.8
+Niger,NER,17,1,0
+Niger,NER,22,1,68.7
+Niger,NER,35,1,0
+Niger,NER,17,2,0
+Niger,NER,22,2,0
+Niger,NER,35,2,0
+Nigeria,NGA,17,1,50.2
+Nigeria,NGA,22,1,61.5
+Nigeria,NGA,35,1,57.2
+Nigeria,NGA,17,2,37.1
+Nigeria,NGA,22,2,47.6
+Nigeria,NGA,35,2,34.9
+Peru,PER,17,1,0
+Peru,PER,22,1,0
+Peru,PER,35,1,0
+Peru,PER,17,2,17.6
+Peru,PER,22,2,22.7
+Peru,PER,35,2,16.8
+Philippines,PHL,17,1,0
+Philippines,PHL,22,1,0
+Philippines,PHL,35,1,0
+Philippines,PHL,17,2,8.7
+Philippines,PHL,22,2,15.4
+Philippines,PHL,35,2,8.7
+Rwanda,RWA,17,1,66.7
+Rwanda,RWA,22,1,71.8
+Rwanda,RWA,35,1,62.6
+Rwanda,RWA,17,2,52
+Rwanda,RWA,22,2,50.8
+Rwanda,RWA,35,2,44
+Sao Tome and Principe,STP,17,1,65.4
+Sao Tome and Principe,STP,22,1,61.8
+Sao Tome and Principe,STP,35,1,56.6
+Sao Tome and Principe,STP,17,2,54
+Sao Tome and Principe,STP,22,2,54.9
+Sao Tome and Principe,STP,35,2,30.8
+Senegal,SEN,17,1,52.7
+Senegal,SEN,22,1,68.3
+Senegal,SEN,35,1,72.3
+Senegal,SEN,17,2,0
+Senegal,SEN,22,2,0
+Senegal,SEN,35,2,0
+Sierra Leone,SLE,17,1,14.8
+Sierra Leone,SLE,22,1,20.1
+Sierra Leone,SLE,35,1,20.9
+Sierra Leone,SLE,17,2,6.5
+Sierra Leone,SLE,22,2,7.3
+Sierra Leone,SLE,35,2,7
+Tanzania,TZA,17,1,50.1
+Tanzania,TZA,22,1,63.7
+Tanzania,TZA,35,1,62.5
+Tanzania,TZA,17,2,58
+Tanzania,TZA,22,2,50.7
+Tanzania,TZA,35,2,46.3
+Togo,TGO,17,1,62.6
+Togo,TGO,22,1,63.6
+Togo,TGO,35,1,58.3
+Togo,TGO,17,2,49.4
+Togo,TGO,22,2,48.1
+Togo,TGO,35,2,29
+Turkmenistan,TKM,17,1,0
+Turkmenistan,TKM,22,1,0
+Turkmenistan,TKM,35,1,0
+Turkmenistan,TKM,17,2,0
+Turkmenistan,TKM,22,2,0
+Turkmenistan,TKM,35,2,7.4
+Uganda,UGA,17,1,56
+Uganda,UGA,22,1,65.5
+Uganda,UGA,35,1,58.7
+Uganda,UGA,17,2,51.9
+Uganda,UGA,22,2,49.8
+Uganda,UGA,35,2,37.6
+Ukraine,UKR,17,1,74.4
+Ukraine,UKR,22,1,69.7
+Ukraine,UKR,35,1,56
+Ukraine,UKR,17,2,72.7
+Ukraine,UKR,22,2,67.1
+Ukraine,UKR,35,2,42.1
+Zambia,ZMB,17,1,42.9
+Zambia,ZMB,22,1,56.2
+Zambia,ZMB,35,1,62
+Zambia,ZMB,17,2,36.4
+Zambia,ZMB,22,2,45.1
+Zambia,ZMB,35,2,42.9
+Zimbabwe,ZWE,17,1,78.8
+Zimbabwe,ZWE,22,1,87.9
+Zimbabwe,ZWE,35,1,86.4
+Zimbabwe,ZWE,17,2,47
+Zimbabwe,ZWE,22,2,63.8
+Zimbabwe,ZWE,35,2,73.9
