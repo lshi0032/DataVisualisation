@@ -1,0 +1,2228 @@
+[
+ {
+   "country": "Albania",
+   "code": "ALB",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 55.6
+ },
+ {
+   "country": "Albania",
+   "code": "ALB",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 54
+ },
+ {
+   "country": "Albania",
+   "code": "ALB",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 47.7
+ },
+ {
+   "country": "Albania",
+   "code": "ALB",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 20.3
+ },
+ {
+   "country": "Albania",
+   "code": "ALB",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 28.8
+ },
+ {
+   "country": "Albania",
+   "code": "ALB",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 24
+ },
+ {
+   "country": "Angola",
+   "code": "AGO",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 51.7
+ },
+ {
+   "country": "Angola",
+   "code": "AGO",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 52.9
+ },
+ {
+   "country": "Angola",
+   "code": "AGO",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 53.5
+ },
+ {
+   "country": "Angola",
+   "code": "AGO",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 35.7
+ },
+ {
+   "country": "Angola",
+   "code": "AGO",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 29.8
+ },
+ {
+   "country": "Angola",
+   "code": "AGO",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 20
+ },
+ {
+   "country": "Armenia",
+   "code": "ARM",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 84.2
+ },
+ {
+   "country": "Armenia",
+   "code": "ARM",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 87.1
+ },
+ {
+   "country": "Armenia",
+   "code": "ARM",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 66.3
+ },
+ {
+   "country": "Armenia",
+   "code": "ARM",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 0
+ },
+ {
+   "country": "Armenia",
+   "code": "ARM",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 0
+ },
+ {
+   "country": "Armenia",
+   "code": "ARM",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 15.8
+ },
+ {
+   "country": "Benin",
+   "code": "BEN",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 40.8
+ },
+ {
+   "country": "Benin",
+   "code": "BEN",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 49.1
+ },
+ {
+   "country": "Benin",
+   "code": "BEN",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 46.4
+ },
+ {
+   "country": "Benin",
+   "code": "BEN",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 37.4
+ },
+ {
+   "country": "Benin",
+   "code": "BEN",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 38.4
+ },
+ {
+   "country": "Benin",
+   "code": "BEN",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 26.9
+ },
+ {
+   "country": "Bolivia",
+   "code": "BOL",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 37.7
+ },
+ {
+   "country": "Bolivia",
+   "code": "BOL",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 36.9
+ },
+ {
+   "country": "Bolivia",
+   "code": "BOL",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 32.3
+ },
+ {
+   "country": "Bolivia",
+   "code": "BOL",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 22.5
+ },
+ {
+   "country": "Bolivia",
+   "code": "BOL",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 20.5
+ },
+ {
+   "country": "Bolivia",
+   "code": "BOL",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 18
+ },
+ {
+   "country": "Burkina Faso",
+   "code": "BFA",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 67.7
+ },
+ {
+   "country": "Burkina Faso",
+   "code": "BFA",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 77.9
+ },
+ {
+   "country": "Burkina Faso",
+   "code": "BFA",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 73.7
+ },
+ {
+   "country": "Burkina Faso",
+   "code": "BFA",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 52.6
+ },
+ {
+   "country": "Burkina Faso",
+   "code": "BFA",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 70.7
+ },
+ {
+   "country": "Burkina Faso",
+   "code": "BFA",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 52.4
+ },
+ {
+   "country": "Burundi",
+   "code": "BDI",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 37.3
+ },
+ {
+   "country": "Burundi",
+   "code": "BDI",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 51.7
+ },
+ {
+   "country": "Burundi",
+   "code": "BDI",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 46.5
+ },
+ {
+   "country": "Burundi",
+   "code": "BDI",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 21.6
+ },
+ {
+   "country": "Burundi",
+   "code": "BDI",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 32.5
+ },
+ {
+   "country": "Burundi",
+   "code": "BDI",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 17
+ },
+ {
+   "country": "Cambodia",
+   "code": "KHM",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 51.7
+ },
+ {
+   "country": "Cambodia",
+   "code": "KHM",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 76.8
+ },
+ {
+   "country": "Cambodia",
+   "code": "KHM",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 74.5
+ },
+ {
+   "country": "Cambodia",
+   "code": "KHM",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 0
+ },
+ {
+   "country": "Cambodia",
+   "code": "KHM",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 64.5
+ },
+ {
+   "country": "Cambodia",
+   "code": "KHM",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 0
+ },
+ {
+   "country": "Cameroon",
+   "code": "CMR",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 72.6
+ },
+ {
+   "country": "Cameroon",
+   "code": "CMR",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 79
+ },
+ {
+   "country": "Cameroon",
+   "code": "CMR",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 70.9
+ },
+ {
+   "country": "Cameroon",
+   "code": "CMR",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 58.8
+ },
+ {
+   "country": "Cameroon",
+   "code": "CMR",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 62.9
+ },
+ {
+   "country": "Cameroon",
+   "code": "CMR",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 45.5
+ },
+ {
+   "country": "Chad",
+   "code": "TCD",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 29.7
+ },
+ {
+   "country": "Chad",
+   "code": "TCD",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 46.3
+ },
+ {
+   "country": "Chad",
+   "code": "TCD",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 40.4
+ },
+ {
+   "country": "Chad",
+   "code": "TCD",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 34.3
+ },
+ {
+   "country": "Chad",
+   "code": "TCD",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 38.4
+ },
+ {
+   "country": "Chad",
+   "code": "TCD",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 21.9
+ },
+ {
+   "country": "Colombia",
+   "code": "COL",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 80.1
+ },
+ {
+   "country": "Colombia",
+   "code": "COL",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 75.2
+ },
+ {
+   "country": "Colombia",
+   "code": "COL",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 64.7
+ },
+ {
+   "country": "Colombia",
+   "code": "COL",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 0
+ },
+ {
+   "country": "Colombia",
+   "code": "COL",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 0
+ },
+ {
+   "country": "Colombia",
+   "code": "COL",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 0
+ },
+ {
+   "country": "Comoros",
+   "code": "COM",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 55
+ },
+ {
+   "country": "Comoros",
+   "code": "COM",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 66.1
+ },
+ {
+   "country": "Comoros",
+   "code": "COM",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 58.2
+ },
+ {
+   "country": "Comoros",
+   "code": "COM",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 34.2
+ },
+ {
+   "country": "Comoros",
+   "code": "COM",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 30.8
+ },
+ {
+   "country": "Comoros",
+   "code": "COM",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 25
+ },
+ {
+   "country": "Congo",
+   "code": "COG",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 56.8
+ },
+ {
+   "country": "Congo",
+   "code": "COG",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 63.6
+ },
+ {
+   "country": "Congo",
+   "code": "COG",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 56.5
+ },
+ {
+   "country": "Congo",
+   "code": "COG",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 42.2
+ },
+ {
+   "country": "Congo",
+   "code": "COG",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 43
+ },
+ {
+   "country": "Congo",
+   "code": "COG",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 32.3
+ },
+ {
+   "country": "Cote d'Ivoire",
+   "code": "CIV",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 67.5
+ },
+ {
+   "country": "Cote d'Ivoire",
+   "code": "CIV",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 66.7
+ },
+ {
+   "country": "Cote d'Ivoire",
+   "code": "CIV",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 59.3
+ },
+ {
+   "country": "Cote d'Ivoire",
+   "code": "CIV",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 44.1
+ },
+ {
+   "country": "Cote d'Ivoire",
+   "code": "CIV",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 38.6
+ },
+ {
+   "country": "Cote d'Ivoire",
+   "code": "CIV",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 32.5
+ },
+ {
+   "country": "Democratic Republic of Congo",
+   "code": "COD",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 28.1
+ },
+ {
+   "country": "Democratic Republic of Congo",
+   "code": "COD",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 32.4
+ },
+ {
+   "country": "Democratic Republic of Congo",
+   "code": "COD",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 30.8
+ },
+ {
+   "country": "Democratic Republic of Congo",
+   "code": "COD",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 21.9
+ },
+ {
+   "country": "Democratic Republic of Congo",
+   "code": "COD",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 26.6
+ },
+ {
+   "country": "Democratic Republic of Congo",
+   "code": "COD",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 20.2
+ },
+ {
+   "country": "Dominican Republic",
+   "code": "DOM",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 75.9
+ },
+ {
+   "country": "Dominican Republic",
+   "code": "DOM",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 70.9
+ },
+ {
+   "country": "Dominican Republic",
+   "code": "DOM",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 69.4
+ },
+ {
+   "country": "Dominican Republic",
+   "code": "DOM",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 48.5
+ },
+ {
+   "country": "Dominican Republic",
+   "code": "DOM",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 48.5
+ },
+ {
+   "country": "Dominican Republic",
+   "code": "DOM",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 41.4
+ },
+ {
+   "country": "Eswatini",
+   "code": "SWZ",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 68.8
+ },
+ {
+   "country": "Eswatini",
+   "code": "SWZ",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 69.8
+ },
+ {
+   "country": "Eswatini",
+   "code": "SWZ",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 65.4
+ },
+ {
+   "country": "Eswatini",
+   "code": "SWZ",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 51.5
+ },
+ {
+   "country": "Eswatini",
+   "code": "SWZ",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 55.3
+ },
+ {
+   "country": "Eswatini",
+   "code": "SWZ",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 54.1
+ },
+ {
+   "country": "Ethiopia",
+   "code": "ETH",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 58.6
+ },
+ {
+   "country": "Ethiopia",
+   "code": "ETH",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 69.9
+ },
+ {
+   "country": "Ethiopia",
+   "code": "ETH",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 64.9
+ },
+ {
+   "country": "Ethiopia",
+   "code": "ETH",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 40.6
+ },
+ {
+   "country": "Ethiopia",
+   "code": "ETH",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 27.9
+ },
+ {
+   "country": "Ethiopia",
+   "code": "ETH",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 25.8
+ },
+ {
+   "country": "Gabon",
+   "code": "GAB",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 78.7
+ },
+ {
+   "country": "Gabon",
+   "code": "GAB",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 77.6
+ },
+ {
+   "country": "Gabon",
+   "code": "GAB",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 72.5
+ },
+ {
+   "country": "Gabon",
+   "code": "GAB",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 62.6
+ },
+ {
+   "country": "Gabon",
+   "code": "GAB",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 58
+ },
+ {
+   "country": "Gabon",
+   "code": "GAB",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 47.1
+ },
+ {
+   "country": "Gambia",
+   "code": "GMB",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 45.2
+ },
+ {
+   "country": "Gambia",
+   "code": "GMB",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 66.6
+ },
+ {
+   "country": "Gambia",
+   "code": "GMB",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 76.4
+ },
+ {
+   "country": "Gambia",
+   "code": "GMB",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 27.9
+ },
+ {
+   "country": "Gambia",
+   "code": "GMB",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 26.3
+ },
+ {
+   "country": "Gambia",
+   "code": "GMB",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 38.8
+ },
+ {
+   "country": "Ghana",
+   "code": "GHA",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 36.7
+ },
+ {
+   "country": "Ghana",
+   "code": "GHA",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 40.8
+ },
+ {
+   "country": "Ghana",
+   "code": "GHA",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 39
+ },
+ {
+   "country": "Ghana",
+   "code": "GHA",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 20.3
+ },
+ {
+   "country": "Ghana",
+   "code": "GHA",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 18.4
+ },
+ {
+   "country": "Ghana",
+   "code": "GHA",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 14.4
+ },
+ {
+   "country": "Guatemala",
+   "code": "GTM",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 71
+ },
+ {
+   "country": "Guatemala",
+   "code": "GTM",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 70.6
+ },
+ {
+   "country": "Guatemala",
+   "code": "GTM",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 62.5
+ },
+ {
+   "country": "Guatemala",
+   "code": "GTM",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 36.4
+ },
+ {
+   "country": "Guatemala",
+   "code": "GTM",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 35.8
+ },
+ {
+   "country": "Guatemala",
+   "code": "GTM",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 23
+ },
+ {
+   "country": "Guinea",
+   "code": "GIN",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 42.2
+ },
+ {
+   "country": "Guinea",
+   "code": "GIN",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 59.5
+ },
+ {
+   "country": "Guinea",
+   "code": "GIN",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 52.7
+ },
+ {
+   "country": "Guinea",
+   "code": "GIN",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 21.2
+ },
+ {
+   "country": "Guinea",
+   "code": "GIN",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 45.6
+ },
+ {
+   "country": "Guinea",
+   "code": "GIN",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 36.9
+ },
+ {
+   "country": "Guyana",
+   "code": "GUY",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 85.2
+ },
+ {
+   "country": "Guyana",
+   "code": "GUY",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 73.3
+ },
+ {
+   "country": "Guyana",
+   "code": "GUY",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 65.6
+ },
+ {
+   "country": "Guyana",
+   "code": "GUY",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 58.9
+ },
+ {
+   "country": "Guyana",
+   "code": "GUY",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 53.3
+ },
+ {
+   "country": "Guyana",
+   "code": "GUY",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 49.1
+ },
+ {
+   "country": "Haiti",
+   "code": "HTI",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 60
+ },
+ {
+   "country": "Haiti",
+   "code": "HTI",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 71.5
+ },
+ {
+   "country": "Haiti",
+   "code": "HTI",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 61.1
+ },
+ {
+   "country": "Haiti",
+   "code": "HTI",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 57.8
+ },
+ {
+   "country": "Haiti",
+   "code": "HTI",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 53.6
+ },
+ {
+   "country": "Haiti",
+   "code": "HTI",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 42.4
+ },
+ {
+   "country": "Honduras",
+   "code": "HND",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 73.6
+ },
+ {
+   "country": "Honduras",
+   "code": "HND",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 60.7
+ },
+ {
+   "country": "Honduras",
+   "code": "HND",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 52.5
+ },
+ {
+   "country": "Honduras",
+   "code": "HND",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 0
+ },
+ {
+   "country": "Honduras",
+   "code": "HND",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 0
+ },
+ {
+   "country": "Honduras",
+   "code": "HND",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 0
+ },
+ {
+   "country": "India",
+   "code": "IND",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 31.3
+ },
+ {
+   "country": "India",
+   "code": "IND",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 40.7
+ },
+ {
+   "country": "India",
+   "code": "IND",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 40.5
+ },
+ {
+   "country": "India",
+   "code": "IND",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 20
+ },
+ {
+   "country": "India",
+   "code": "IND",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 25.1
+ },
+ {
+   "country": "India",
+   "code": "IND",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 10
+ },
+ {
+   "country": "Kenya",
+   "code": "KEN",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 66.8
+ },
+ {
+   "country": "Kenya",
+   "code": "KEN",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 79.1
+ },
+ {
+   "country": "Kenya",
+   "code": "KEN",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 71.3
+ },
+ {
+   "country": "Kenya",
+   "code": "KEN",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 54.9
+ },
+ {
+   "country": "Kenya",
+   "code": "KEN",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 61.4
+ },
+ {
+   "country": "Kenya",
+   "code": "KEN",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 52.4
+ },
+ {
+   "country": "Kyrgyzstan",
+   "code": "KGZ",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 90.5
+ },
+ {
+   "country": "Kyrgyzstan",
+   "code": "KGZ",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 80.9
+ },
+ {
+   "country": "Kyrgyzstan",
+   "code": "KGZ",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 68.1
+ },
+ {
+   "country": "Kyrgyzstan",
+   "code": "KGZ",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 0
+ },
+ {
+   "country": "Kyrgyzstan",
+   "code": "KGZ",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 49.1
+ },
+ {
+   "country": "Kyrgyzstan",
+   "code": "KGZ",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 22.4
+ },
+ {
+   "country": "Lesotho",
+   "code": "LSO",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 76.9
+ },
+ {
+   "country": "Lesotho",
+   "code": "LSO",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 80.1
+ },
+ {
+   "country": "Lesotho",
+   "code": "LSO",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 74.3
+ },
+ {
+   "country": "Lesotho",
+   "code": "LSO",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 79.7
+ },
+ {
+   "country": "Lesotho",
+   "code": "LSO",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 83.5
+ },
+ {
+   "country": "Lesotho",
+   "code": "LSO",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 71.5
+ },
+ {
+   "country": "Liberia",
+   "code": "LBR",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 36.8
+ },
+ {
+   "country": "Liberia",
+   "code": "LBR",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 50.2
+ },
+ {
+   "country": "Liberia",
+   "code": "LBR",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 39.1
+ },
+ {
+   "country": "Liberia",
+   "code": "LBR",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 23.1
+ },
+ {
+   "country": "Liberia",
+   "code": "LBR",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 20.7
+ },
+ {
+   "country": "Liberia",
+   "code": "LBR",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 17.2
+ },
+ {
+   "country": "Madagascar",
+   "code": "MDG",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 9.4
+ },
+ {
+   "country": "Madagascar",
+   "code": "MDG",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 13.1
+ },
+ {
+   "country": "Madagascar",
+   "code": "MDG",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 15.3
+ },
+ {
+   "country": "Madagascar",
+   "code": "MDG",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 4.7
+ },
+ {
+   "country": "Madagascar",
+   "code": "MDG",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 5.8
+ },
+ {
+   "country": "Madagascar",
+   "code": "MDG",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 4.8
+ },
+ {
+   "country": "Malawi",
+   "code": "MWI",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 71
+ },
+ {
+   "country": "Malawi",
+   "code": "MWI",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 82.9
+ },
+ {
+   "country": "Malawi",
+   "code": "MWI",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 75.4
+ },
+ {
+   "country": "Malawi",
+   "code": "MWI",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 55.3
+ },
+ {
+   "country": "Malawi",
+   "code": "MWI",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 50.1
+ },
+ {
+   "country": "Malawi",
+   "code": "MWI",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 43.3
+ },
+ {
+   "country": "Mali",
+   "code": "MLI",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 31
+ },
+ {
+   "country": "Mali",
+   "code": "MLI",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 35.4
+ },
+ {
+   "country": "Mali",
+   "code": "MLI",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 44.2
+ },
+ {
+   "country": "Mali",
+   "code": "MLI",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 18.2
+ },
+ {
+   "country": "Mali",
+   "code": "MLI",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 21
+ },
+ {
+   "country": "Mali",
+   "code": "MLI",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 0
+ },
+ {
+   "country": "Moldova",
+   "code": "MDA",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 68.7
+ },
+ {
+   "country": "Moldova",
+   "code": "MDA",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 57.8
+ },
+ {
+   "country": "Moldova",
+   "code": "MDA",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 38.6
+ },
+ {
+   "country": "Moldova",
+   "code": "MDA",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 48.7
+ },
+ {
+   "country": "Moldova",
+   "code": "MDA",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 40.7
+ },
+ {
+   "country": "Moldova",
+   "code": "MDA",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 21.3
+ },
+ {
+   "country": "Mozambique",
+   "code": "MOZ",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 40.3
+ },
+ {
+   "country": "Mozambique",
+   "code": "MOZ",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 47.5
+ },
+ {
+   "country": "Mozambique",
+   "code": "MOZ",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 37.8
+ },
+ {
+   "country": "Mozambique",
+   "code": "MOZ",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 41.3
+ },
+ {
+   "country": "Mozambique",
+   "code": "MOZ",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 39.7
+ },
+ {
+   "country": "Mozambique",
+   "code": "MOZ",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 26.5
+ },
+ {
+   "country": "Namibia",
+   "code": "NAM",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 82.2
+ },
+ {
+   "country": "Namibia",
+   "code": "NAM",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 81.9
+ },
+ {
+   "country": "Namibia",
+   "code": "NAM",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 77.9
+ },
+ {
+   "country": "Namibia",
+   "code": "NAM",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 67.4
+ },
+ {
+   "country": "Namibia",
+   "code": "NAM",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 67.6
+ },
+ {
+   "country": "Namibia",
+   "code": "NAM",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 63.7
+ },
+ {
+   "country": "Nicaragua",
+   "code": "NIC",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 0
+ },
+ {
+   "country": "Nicaragua",
+   "code": "NIC",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 0
+ },
+ {
+   "country": "Nicaragua",
+   "code": "NIC",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 0
+ },
+ {
+   "country": "Nicaragua",
+   "code": "NIC",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 10.4
+ },
+ {
+   "country": "Nicaragua",
+   "code": "NIC",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 22.8
+ },
+ {
+   "country": "Nicaragua",
+   "code": "NIC",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 10.8
+ },
+ {
+   "country": "Niger",
+   "code": "NER",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 0
+ },
+ {
+   "country": "Niger",
+   "code": "NER",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 68.7
+ },
+ {
+   "country": "Niger",
+   "code": "NER",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 0
+ },
+ {
+   "country": "Niger",
+   "code": "NER",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 0
+ },
+ {
+   "country": "Niger",
+   "code": "NER",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 0
+ },
+ {
+   "country": "Niger",
+   "code": "NER",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 0
+ },
+ {
+   "country": "Nigeria",
+   "code": "NGA",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 50.2
+ },
+ {
+   "country": "Nigeria",
+   "code": "NGA",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 61.5
+ },
+ {
+   "country": "Nigeria",
+   "code": "NGA",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 57.2
+ },
+ {
+   "country": "Nigeria",
+   "code": "NGA",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 37.1
+ },
+ {
+   "country": "Nigeria",
+   "code": "NGA",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 47.6
+ },
+ {
+   "country": "Nigeria",
+   "code": "NGA",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 34.9
+ },
+ {
+   "country": "Peru",
+   "code": "PER",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 0
+ },
+ {
+   "country": "Peru",
+   "code": "PER",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 0
+ },
+ {
+   "country": "Peru",
+   "code": "PER",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 0
+ },
+ {
+   "country": "Peru",
+   "code": "PER",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 17.6
+ },
+ {
+   "country": "Peru",
+   "code": "PER",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 22.7
+ },
+ {
+   "country": "Peru",
+   "code": "PER",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 16.8
+ },
+ {
+   "country": "Philippines",
+   "code": "PHL",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 0
+ },
+ {
+   "country": "Philippines",
+   "code": "PHL",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 0
+ },
+ {
+   "country": "Philippines",
+   "code": "PHL",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 0
+ },
+ {
+   "country": "Philippines",
+   "code": "PHL",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 8.7
+ },
+ {
+   "country": "Philippines",
+   "code": "PHL",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 15.4
+ },
+ {
+   "country": "Philippines",
+   "code": "PHL",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 8.7
+ },
+ {
+   "country": "Rwanda",
+   "code": "RWA",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 66.7
+ },
+ {
+   "country": "Rwanda",
+   "code": "RWA",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 71.8
+ },
+ {
+   "country": "Rwanda",
+   "code": "RWA",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 62.6
+ },
+ {
+   "country": "Rwanda",
+   "code": "RWA",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 52
+ },
+ {
+   "country": "Rwanda",
+   "code": "RWA",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 50.8
+ },
+ {
+   "country": "Rwanda",
+   "code": "RWA",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 44
+ },
+ {
+   "country": "Sao Tome and Principe",
+   "code": "STP",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 65.4
+ },
+ {
+   "country": "Sao Tome and Principe",
+   "code": "STP",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 61.8
+ },
+ {
+   "country": "Sao Tome and Principe",
+   "code": "STP",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 56.6
+ },
+ {
+   "country": "Sao Tome and Principe",
+   "code": "STP",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 54
+ },
+ {
+   "country": "Sao Tome and Principe",
+   "code": "STP",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 54.9
+ },
+ {
+   "country": "Sao Tome and Principe",
+   "code": "STP",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 30.8
+ },
+ {
+   "country": "Senegal",
+   "code": "SEN",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 52.7
+ },
+ {
+   "country": "Senegal",
+   "code": "SEN",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 68.3
+ },
+ {
+   "country": "Senegal",
+   "code": "SEN",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 72.3
+ },
+ {
+   "country": "Senegal",
+   "code": "SEN",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 0
+ },
+ {
+   "country": "Senegal",
+   "code": "SEN",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 0
+ },
+ {
+   "country": "Senegal",
+   "code": "SEN",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 0
+ },
+ {
+   "country": "Sierra Leone",
+   "code": "SLE",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 14.8
+ },
+ {
+   "country": "Sierra Leone",
+   "code": "SLE",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 20.1
+ },
+ {
+   "country": "Sierra Leone",
+   "code": "SLE",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 20.9
+ },
+ {
+   "country": "Sierra Leone",
+   "code": "SLE",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 6.5
+ },
+ {
+   "country": "Sierra Leone",
+   "code": "SLE",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 7.3
+ },
+ {
+   "country": "Sierra Leone",
+   "code": "SLE",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 7
+ },
+ {
+   "country": "Tanzania",
+   "code": "TZA",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 50.1
+ },
+ {
+   "country": "Tanzania",
+   "code": "TZA",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 63.7
+ },
+ {
+   "country": "Tanzania",
+   "code": "TZA",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 62.5
+ },
+ {
+   "country": "Tanzania",
+   "code": "TZA",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 58
+ },
+ {
+   "country": "Tanzania",
+   "code": "TZA",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 50.7
+ },
+ {
+   "country": "Tanzania",
+   "code": "TZA",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 46.3
+ },
+ {
+   "country": "Togo",
+   "code": "TGO",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 62.6
+ },
+ {
+   "country": "Togo",
+   "code": "TGO",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 63.6
+ },
+ {
+   "country": "Togo",
+   "code": "TGO",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 58.3
+ },
+ {
+   "country": "Togo",
+   "code": "TGO",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 49.4
+ },
+ {
+   "country": "Togo",
+   "code": "TGO",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 48.1
+ },
+ {
+   "country": "Togo",
+   "code": "TGO",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 29
+ },
+ {
+   "country": "Turkmenistan",
+   "code": "TKM",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 0
+ },
+ {
+   "country": "Turkmenistan",
+   "code": "TKM",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 0
+ },
+ {
+   "country": "Turkmenistan",
+   "code": "TKM",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 0
+ },
+ {
+   "country": "Turkmenistan",
+   "code": "TKM",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 0
+ },
+ {
+   "country": "Turkmenistan",
+   "code": "TKM",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 0
+ },
+ {
+   "country": "Turkmenistan",
+   "code": "TKM",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 7.4
+ },
+ {
+   "country": "Uganda",
+   "code": "UGA",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 56
+ },
+ {
+   "country": "Uganda",
+   "code": "UGA",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 65.5
+ },
+ {
+   "country": "Uganda",
+   "code": "UGA",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 58.7
+ },
+ {
+   "country": "Uganda",
+   "code": "UGA",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 51.9
+ },
+ {
+   "country": "Uganda",
+   "code": "UGA",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 49.8
+ },
+ {
+   "country": "Uganda",
+   "code": "UGA",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 37.6
+ },
+ {
+   "country": "Ukraine",
+   "code": "UKR",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 74.4
+ },
+ {
+   "country": "Ukraine",
+   "code": "UKR",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 69.7
+ },
+ {
+   "country": "Ukraine",
+   "code": "UKR",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 56
+ },
+ {
+   "country": "Ukraine",
+   "code": "UKR",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 72.7
+ },
+ {
+   "country": "Ukraine",
+   "code": "UKR",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 67.1
+ },
+ {
+   "country": "Ukraine",
+   "code": "UKR",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 42.1
+ },
+ {
+   "country": "Zambia",
+   "code": "ZMB",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 42.9
+ },
+ {
+   "country": "Zambia",
+   "code": "ZMB",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 56.2
+ },
+ {
+   "country": "Zambia",
+   "code": "ZMB",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 62
+ },
+ {
+   "country": "Zambia",
+   "code": "ZMB",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 36.4
+ },
+ {
+   "country": "Zambia",
+   "code": "ZMB",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 45.1
+ },
+ {
+   "country": "Zambia",
+   "code": "ZMB",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 42.9
+ },
+ {
+   "country": "Zimbabwe",
+   "code": "ZWE",
+   "Age": 17,
+   "Sex": 1,
+   "Condom_use": 78.8
+ },
+ {
+   "country": "Zimbabwe",
+   "code": "ZWE",
+   "Age": 22,
+   "Sex": 1,
+   "Condom_use": 87.9
+ },
+ {
+   "country": "Zimbabwe",
+   "code": "ZWE",
+   "Age": 35,
+   "Sex": 1,
+   "Condom_use": 86.4
+ },
+ {
+   "country": "Zimbabwe",
+   "code": "ZWE",
+   "Age": 17,
+   "Sex": 2,
+   "Condom_use": 47
+ },
+ {
+   "country": "Zimbabwe",
+   "code": "ZWE",
+   "Age": 22,
+   "Sex": 2,
+   "Condom_use": 63.8
+ },
+ {
+   "country": "Zimbabwe",
+   "code": "ZWE",
+   "Age": 35,
+   "Sex": 2,
+   "Condom_use": 73.9
+ }
+]
