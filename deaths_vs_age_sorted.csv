@@ -1,0 +1,1001 @@
+country,code,Age,Number_of_deaths
+South Africa,ZAF,15 to 49,3548113
+India,IND,15 to 49,2034239
+Kenya,KEN,15 to 49,1743527
+Tanzania,TZA,15 to 49,1689817
+Nigeria,NGA,15 to 49,1573433
+Uganda,UGA,15 to 49,1301577
+Zimbabwe,ZWE,15 to 49,1258225
+Ethiopia,ETH,15 to 49,1153140
+Mozambique,MOZ,15 to 49,966069
+Malawi,MWI,15 to 49,825035
+South Africa,ZAF,50 to 69,799418
+Zambia,ZMB,15 to 49,772297
+Cote d'Ivoire,CIV,15 to 49,725031
+Democratic Republic of Congo,COD,15 to 49,680002
+Cameroon,CMR,15 to 49,514686
+Thailand,THA,15 to 49,460483
+Uganda,UGA,5<,428131
+United States,USA,15 to 49,392211
+Kenya,KEN,50 to 69,380287
+South Africa,ZAF,5<,361794
+Tanzania,TZA,50 to 69,352606
+Kenya,KEN,5<,349255
+Nigeria,NGA,50 to 69,340895
+Ghana,GHA,15 to 49,338209
+Brazil,BRA,15 to 49,337350
+Mozambique,MOZ,5<,335643
+Tanzania,TZA,5<,325399
+Ethiopia,ETH,5<,313914
+Russia,RUS,15 to 49,311407
+Zimbabwe,ZWE,50 to 69,269259
+China,CHN,15 to 49,264863
+Uganda,UGA,50 to 69,253348
+India,IND,50 to 69,252542
+Nigeria,NGA,5<,239562
+Zimbabwe,ZWE,5<,236368
+Ethiopia,ETH,50 to 69,228078
+Lesotho,LSO,15 to 49,225599
+Zambia,ZMB,5<,216174
+Malawi,MWI,5<,215656
+Burkina Faso,BFA,15 to 49,214060
+Burundi,BDI,15 to 49,208080
+Haiti,HTI,15 to 49,200829
+Botswana,BWA,15 to 49,199864
+Myanmar,MMR,15 to 49,195451
+Central African Republic,CAF,15 to 49,194241
+Mozambique,MOZ,50 to 69,170983
+Malawi,MWI,50 to 69,166410
+Angola,AGO,15 to 49,165907
+Rwanda,RWA,15 to 49,158134
+Ukraine,UKR,15 to 49,156715
+Cote d'Ivoire,CIV,5<,153633
+Democratic Republic of Congo,COD,50 to 69,147480
+Cote d'Ivoire,CIV,50 to 69,142814
+Vietnam,VNM,15 to 49,137924
+Zambia,ZMB,50 to 69,135283
+Thailand,THA,50 to 69,133725
+India,IND,5<,133076
+Democratic Republic of Congo,COD,5<,131653
+Congo,COG,15 to 49,127746
+Togo,TGO,15 to 49,124950
+United States,USA,50 to 69,123470
+Mexico,MEX,15 to 49,115679
+China,CHN,50 to 69,113978
+Eswatini,SWZ,15 to 49,110640
+Cameroon,CMR,50 to 69,106016
+Namibia,NAM,15 to 49,105318
+Uganda,UGA,5 to 14,95648
+Cameroon,CMR,5<,93542
+Mali,MLI,15 to 49,92525
+Chad,TCD,15 to 49,87942
+South Africa,ZAF,70+,85692
+South Sudan,SSD,15 to 49,83952
+Brazil,BRA,50 to 69,79281
+South Africa,ZAF,5 to 14,79275
+Philippines,PHL,15 to 49,76436
+Kenya,KEN,5 to 14,75851
+Cambodia,KHM,15 to 49,75723
+Ghana,GHA,50 to 69,73642
+Ethiopia,ETH,5 to 14,72106
+Sudan,SDN,15 to 49,65734
+Guinea,GIN,15 to 49,65257
+Ghana,GHA,5<,60136
+Tanzania,TZA,5 to 14,59073
+Lesotho,LSO,50 to 69,57896
+Indonesia,IDN,15 to 49,55043
+Somalia,SOM,15 to 49,54457
+Burkina Faso,BFA,50 to 69,53308
+Mozambique,MOZ,5 to 14,52158
+Dominican Republic,DOM,15 to 49,51022
+Spain,ESP,15 to 49,51022
+Eritrea,ERI,15 to 49,49047
+Benin,BEN,15 to 49,48979
+Burkina Faso,BFA,5<,47882
+Niger,NER,15 to 49,47732
+Haiti,HTI,50 to 69,47386
+Papua New Guinea,PNG,15 to 49,46740
+Colombia,COL,15 to 49,46676
+Burundi,BDI,50 to 69,46393
+Sierra Leone,SLE,15 to 49,45994
+Senegal,SEN,15 to 49,44514
+Burundi,BDI,5<,42679
+Zimbabwe,ZWE,5 to 14,42604
+Myanmar,MMR,50 to 69,42029
+Central African Republic,CAF,50 to 69,41441
+Malawi,MWI,5 to 14,40138
+Botswana,BWA,50 to 69,39421
+Haiti,HTI,5<,39054
+Italy,ITA,15 to 49,38956
+Tanzania,TZA,70+,38153
+Argentina,ARG,15 to 49,38079
+Zambia,ZMB,5 to 14,37951
+France,FRA,15 to 49,37367
+Malaysia,MYS,15 to 49,36562
+Liberia,LBR,15 to 49,36421
+Angola,AGO,5<,36374
+Peru,PER,15 to 49,35851
+Venezuela,VEN,15 to 49,35672
+Kenya,KEN,70+,34616
+Democratic Republic of Congo,COD,5 to 14,34186
+Central African Republic,CAF,5<,34144
+Nigeria,NGA,70+,33320
+Rwanda,RWA,50 to 69,33218
+China,CHN,70+,33065
+Angola,AGO,50 to 69,32216
+Cote d'Ivoire,CIV,5 to 14,30767
+Gabon,GAB,15 to 49,29652
+Zimbabwe,ZWE,70+,29587
+Nigeria,NGA,5 to 14,29511
+India,IND,5 to 14,28764
+Lesotho,LSO,5<,28194
+Congo,COG,5<,28130
+Congo,COG,50 to 69,26186
+Rwanda,RWA,5<,25817
+Russia,RUS,50 to 69,25471
+Togo,TGO,50 to 69,25081
+Mexico,MEX,50 to 69,24892
+Madagascar,MDG,15 to 49,24807
+Chad,TCD,5<,24583
+Namibia,NAM,50 to 69,24187
+Pakistan,PAK,15 to 49,23970
+Uganda,UGA,70+,23464
+Nepal,NPL,15 to 49,23225
+Mali,MLI,50 to 69,22461
+Togo,TGO,5<,22443
+Equatorial Guinea,GNQ,15 to 49,21417
+Ethiopia,ETH,70+,21194
+Eswatini,SWZ,50 to 69,20501
+Namibia,NAM,5<,20315
+Brazil,BRA,5<,19789
+Guinea-Bissau,GNB,15 to 49,19715
+Cameroon,CMR,5 to 14,19217
+Ukraine,UKR,50 to 69,19088
+Myanmar,MMR,5<,18891
+Germany,DEU,15 to 49,18683
+Eswatini,SWZ,5<,18589
+Portugal,PRT,15 to 49,18573
+China,CHN,5<,18397
+Chad,TCD,50 to 69,18243
+Benin,BEN,5<,18184
+Malawi,MWI,70+,18108
+South Sudan,SSD,5<,17968
+Mali,MLI,5<,16973
+Botswana,BWA,5<,16794
+Gambia,GMB,15 to 49,16458
+Mozambique,MOZ,70+,16410
+Ecuador,ECU,15 to 49,16353
+Puerto Rico,PRI,15 to 49,15649
+Philippines,PHL,50 to 69,15478
+Guinea,GIN,50 to 69,15250
+Cambodia,KHM,50 to 69,14929
+South Sudan,SSD,50 to 69,14908
+Ghana,GHA,5 to 14,14654
+Djibouti,DJI,15 to 49,14520
+Thailand,THA,5<,14018
+Zambia,ZMB,70+,13864
+Canada,CAN,15 to 49,13119
+Colombia,COL,50 to 69,13119
+Guinea,GIN,5<,13039
+Democratic Republic of Congo,COD,70+,13002
+Somalia,SOM,5<,12903
+Sudan,SDN,50 to 69,12802
+Burkina Faso,BFA,5 to 14,12771
+Indonesia,IDN,5<,12683
+Dominican Republic,DOM,50 to 69,12354
+Peru,PER,5<,12072
+Bolivia,BOL,15 to 49,12048
+Guatemala,GTM,15 to 49,12038
+Philippines,PHL,5<,12031
+France,FRA,50 to 69,11858
+Burundi,BDI,5 to 14,11557
+Somalia,SOM,50 to 69,11435
+El Salvador,SLV,15 to 49,11151
+Russia,RUS,5<,11124
+Uzbekistan,UZB,15 to 49,10884
+Cote d'Ivoire,CIV,70+,10872
+Senegal,SEN,50 to 69,10517
+Panama,PAN,15 to 49,10359
+Niger,NER,50 to 69,10210
+Eritrea,ERI,50 to 69,10129
+Eritrea,ERI,5<,10003
+Jamaica,JAM,15 to 49,9944
+Cameroon,CMR,70+,9885
+Sudan,SDN,5<,9841
+Chile,CHL,15 to 49,9534
+Morocco,MAR,15 to 49,9525
+Papua New Guinea,PNG,50 to 69,9480
+Cambodia,KHM,5<,9471
+Benin,BEN,50 to 69,9290
+Argentina,ARG,50 to 69,8993
+Niger,NER,5<,8967
+Haiti,HTI,5 to 14,8751
+Iran,IRN,15 to 49,8687
+Germany,DEU,50 to 69,8644
+Senegal,SEN,5<,8328
+Sierra Leone,SLE,50 to 69,8172
+Saudi Arabia,SAU,15 to 49,7981
+Thailand,THA,70+,7950
+United Kingdom,GBR,15 to 49,7944
+Spain,ESP,50 to 69,7934
+Italy,ITA,50 to 69,7870
+Venezuela,VEN,50 to 69,7815
+Vietnam,VNM,50 to 69,7732
+Angola,AGO,5 to 14,7578
+Malaysia,MYS,50 to 69,7578
+Sierra Leone,SLE,5<,7180
+Brazil,BRA,5 to 14,7171
+Myanmar,MMR,5 to 14,7012
+Kazakhstan,KAZ,15 to 49,6991
+Philippines,PHL,5 to 14,6954
+Congo,COG,5 to 14,6897
+Gabon,GAB,50 to 69,6825
+Ghana,GHA,70+,6822
+Papua New Guinea,PNG,5<,6725
+United States,USA,70+,6697
+Liberia,LBR,50 to 69,6685
+Lesotho,LSO,70+,6672
+Central African Republic,CAF,5 to 14,6594
+Trinidad and Tobago,TTO,15 to 49,6564
+Rwanda,RWA,5 to 14,6488
+Pakistan,PAK,5<,6473
+Belarus,BLR,15 to 49,6374
+Paraguay,PRY,15 to 49,6292
+Nepal,NPL,50 to 69,6291
+Peru,PER,50 to 69,6215
+North Korea,PRK,15 to 49,6078
+India,IND,70+,5748
+Indonesia,IDN,50 to 69,5544
+Burkina Faso,BFA,70+,5426
+Pakistan,PAK,50 to 69,5401
+Guyana,GUY,15 to 49,5357
+Togo,TGO,5 to 14,5323
+Myanmar,MMR,70+,5184
+Gabon,GAB,5<,5103
+Madagascar,MDG,50 to 69,4855
+Chad,TCD,5 to 14,4742
+Liberia,LBR,5<,4694
+Morocco,MAR,5<,4679
+Equatorial Guinea,GNQ,5<,4673
+Haiti,HTI,70+,4672
+Moldova,MDA,15 to 49,4620
+Nicaragua,NIC,15 to 49,4584
+Guinea-Bissau,GNB,5<,4532
+Malaysia,MYS,5<,4492
+Portugal,PRT,50 to 69,4418
+Cuba,CUB,15 to 49,4412
+Australia,AUS,15 to 49,4393
+Lesotho,LSO,5 to 14,4384
+Puerto Rico,PRI,50 to 69,4202
+Burundi,BDI,70+,4186
+Madagascar,MDG,5<,4186
+Brazil,BRA,70+,4145
+Laos,LAO,15 to 49,4051
+United States,USA,5<,3939
+Bahamas,BHS,15 to 49,3888
+Botswana,BWA,70+,3881
+Equatorial Guinea,GNQ,50 to 69,3794
+Guinea-Bissau,GNB,50 to 69,3777
+Turkmenistan,TKM,15 to 49,3766
+Dominican Republic,DOM,5<,3756
+Canada,CAN,50 to 69,3754
+Netherlands,NLD,15 to 49,3745
+Nepal,NPL,5<,3696
+Somalia,SOM,5 to 14,3574
+Romania,ROU,5 to 14,3562
+Yemen,YEM,15 to 49,3520
+Mexico,MEX,5<,3512
+Algeria,DZA,15 to 49,3507
+Benin,BEN,5 to 14,3433
+China,CHN,5 to 14,3411
+El Salvador,SLV,50 to 69,3400
+Timor,TLS,15 to 49,3356
+Botswana,BWA,5 to 14,3354
+Japan,JPN,50 to 69,3308
+Namibia,NAM,5 to 14,3292
+Namibia,NAM,70+,3221
+Costa Rica,CRI,15 to 49,3205
+Guatemala,GTM,50 to 69,3148
+Gambia,GMB,50 to 69,3087
+Mali,MLI,5 to 14,3078
+Kyrgyzstan,KGZ,15 to 49,2975
+Ecuador,ECU,50 to 69,2969
+Romania,ROU,15 to 49,2963
+Jamaica,JAM,50 to 69,2933
+Djibouti,DJI,50 to 69,2907
+Rwanda,RWA,70+,2907
+Central African Republic,CAF,70+,2889
+Bangladesh,BGD,15 to 49,2864
+United Kingdom,GBR,50 to 69,2852
+Guinea,GIN,5 to 14,2836
+Uruguay,URY,15 to 49,2804
+Bolivia,BOL,50 to 69,2786
+Bolivia,BOL,5<,2781
+Chile,CHL,50 to 69,2781
+South Sudan,SSD,5 to 14,2776
+Cambodia,KHM,5 to 14,2689
+Honduras,HND,15 to 49,2660
+Morocco,MAR,50 to 69,2594
+Eswatini,SWZ,5 to 14,2592
+Panama,PAN,50 to 69,2585
+Gambia,GMB,5<,2567
+Suriname,SUR,15 to 49,2541
+Poland,POL,15 to 49,2511
+Afghanistan,AFG,15 to 49,2485
+Latvia,LVA,15 to 49,2466
+Russia,RUS,5 to 14,2458
+Thailand,THA,5 to 14,2358
+Mali,MLI,70+,2347
+Congo,COG,70+,2312
+Angola,AGO,70+,2284
+Switzerland,CHE,15 to 49,2176
+North Korea,PRK,50 to 69,2123
+United States,USA,5 to 14,2097
+Mexico,MEX,5 to 14,2085
+Eritrea,ERI,5 to 14,2083
+Djibouti,DJI,5<,2077
+Vietnam,VNM,5<,2072
+Guinea,GIN,70+,2039
+Paraguay,PRY,5<,2031
+Iran,IRN,50 to 69,2029
+Cape Verde,CPV,15 to 49,2002
+Chad,TCD,70+,1978
+Eswatini,SWZ,70+,1924
+Togo,TGO,70+,1919
+Tajikistan,TJK,15 to 49,1884
+Senegal,SEN,5 to 14,1804
+Hungary,HUN,50 to 69,1788
+Yemen,YEM,5<,1759
+Belgium,BEL,15 to 49,1747
+Saudi Arabia,SAU,50 to 69,1742
+Hungary,HUN,15 to 49,1737
+Niger,NER,5 to 14,1713
+Turkey,TUR,15 to 49,1697
+Cambodia,KHM,70+,1673
+Paraguay,PRY,50 to 69,1642
+Iran,IRN,5<,1635
+Timor,TLS,5<,1629
+Trinidad and Tobago,TTO,50 to 69,1620
+El Salvador,SLV,5<,1615
+Egypt,EGY,15 to 49,1562
+Venezuela,VEN,5<,1534
+Sierra Leone,SLE,5 to 14,1533
+Australia,AUS,50 to 69,1530
+Dominican Republic,DOM,70+,1495
+Austria,AUT,15 to 49,1476
+Tunisia,TUN,15 to 49,1470
+Sudan,SDN,5 to 14,1463
+Belize,BLZ,15 to 49,1461
+United Arab Emirates,ARE,15 to 49,1448
+Japan,JPN,15 to 49,1420
+Sudan,SDN,70+,1391
+South Sudan,SSD,70+,1352
+Cuba,CUB,50 to 69,1327
+Mexico,MEX,70+,1327
+Timor,TLS,50 to 69,1315
+Guatemala,GTM,5<,1311
+South Korea,KOR,15 to 49,1301
+Netherlands,NLD,50 to 69,1269
+Sri Lanka,LKA,15 to 49,1269
+Colombia,COL,5<,1265
+Guinea-Bissau,GNB,5 to 14,1265
+Lithuania,LTU,15 to 49,1242
+Serbia,SRB,15 to 49,1204
+South Korea,KOR,50 to 69,1198
+Equatorial Guinea,GNQ,5 to 14,1195
+Algeria,DZA,50 to 69,1193
+Afghanistan,AFG,5<,1185
+Peru,PER,5 to 14,1166
+Algeria,DZA,5<,1158
+Laos,LAO,50 to 69,1151
+Nicaragua,NIC,5<,1136
+Uruguay,URY,50 to 69,1130
+Indonesia,IDN,5 to 14,1125
+Peru,PER,70+,1097
+Senegal,SEN,70+,1094
+Belgium,BEL,50 to 69,1078
+Bulgaria,BGR,15 to 49,1065
+Saudi Arabia,SAU,5<,1057
+Liberia,LBR,5 to 14,1035
+Oman,OMN,15 to 49,1030
+Lebanon,LBN,15 to 49,1029
+Guyana,GUY,50 to 69,1023
+Benin,BEN,70+,1001
+North Korea,PRK,5<,984
+Costa Rica,CRI,50 to 69,975
+Mauritius,MUS,15 to 49,974
+Sierra Leone,SLE,70+,973
+Uzbekistan,UZB,50 to 69,968
+Azerbaijan,AZE,15 to 49,959
+Malaysia,MYS,5 to 14,947
+Denmark,DNK,15 to 49,946
+Libya,LBY,15 to 49,932
+Ukraine,UKR,5<,914
+Belarus,BLR,50 to 69,909
+Colombia,COL,70+,884
+Barbados,BRB,15 to 49,877
+Sweden,SWE,15 to 49,859
+Laos,LAO,5<,848
+Papua New Guinea,PNG,5 to 14,846
+Niger,NER,70+,819
+Bahamas,BHS,50 to 69,818
+Iraq,IRQ,15 to 49,804
+Madagascar,MDG,5 to 14,791
+Yemen,YEM,50 to 69,774
+Gabon,GAB,70+,773
+Nepal,NPL,70+,773
+Vietnam,VNM,5 to 14,766
+Liberia,LBR,70+,756
+Singapore,SGP,15 to 49,755
+Ecuador,ECU,5<,753
+Nicaragua,NIC,50 to 69,747
+Bangladesh,BGD,5<,722
+Greece,GRC,15 to 49,722
+Papua New Guinea,PNG,70+,717
+Bulgaria,BGR,50 to 69,716
+Romania,ROU,5<,713
+Somalia,SOM,70+,707
+Mauritania,MRT,15 to 49,706
+Turkey,TUR,50 to 69,690
+Israel,ISR,15 to 49,669
+El Salvador,SLV,70+,664
+Bangladesh,BGD,50 to 69,662
+Gabon,GAB,5 to 14,655
+Pakistan,PAK,70+,643
+Romania,ROU,50 to 69,642
+Honduras,HND,50 to 69,638
+Poland,POL,50 to 69,635
+Eritrea,ERI,70+,628
+Estonia,EST,15 to 49,615
+Switzerland,CHE,50 to 69,606
+Indonesia,IDN,70+,583
+Suriname,SUR,50 to 69,577
+Venezuela,VEN,70+,568
+Egypt,EGY,5<,564
+Egypt,EGY,50 to 69,559
+Argentina,ARG,5<,554
+Latvia,LVA,50 to 69,539
+Saint Vincent and the Grenadines,VCT,15 to 49,533
+Lithuania,LTU,50 to 69,530
+Germany,DEU,70+,517
+Dominican Republic,DOM,5 to 14,513
+New Zealand,NZL,15 to 49,513
+Nepal,NPL,5 to 14,509
+Venezuela,VEN,5 to 14,499
+Argentina,ARG,70+,496
+Argentina,ARG,5 to 14,495
+Denmark,DNK,50 to 69,489
+Kazakhstan,KAZ,50 to 69,487
+Guatemala,GTM,5 to 14,485
+Pakistan,PAK,5 to 14,481
+Iraq,IRQ,5<,474
+Norway,NOR,15 to 49,469
+Colombia,COL,5 to 14,464
+Afghanistan,AFG,50 to 69,463
+Sweden,SWE,50 to 69,462
+Tunisia,TUN,50 to 69,459
+Italy,ITA,70+,457
+Austria,AUT,50 to 69,455
+Cape Verde,CPV,50 to 69,450
+Portugal,PRT,70+,444
+Singapore,SGP,50 to 69,444
+Turkey,TUR,5<,443
+Gambia,GMB,5 to 14,435
+Bhutan,BTN,15 to 49,426
+Spain,ESP,70+,424
+Ireland,IRL,15 to 49,420
+Morocco,MAR,5 to 14,418
+Sri Lanka,LKA,50 to 69,409
+Spain,ESP,5<,401
+Tajikistan,TJK,50 to 69,397
+Uruguay,URY,70+,397
+Lebanon,LBN,50 to 69,392
+Serbia,SRB,50 to 69,392
+Lebanon,LBN,5<,384
+Gambia,GMB,70+,382
+Ukraine,UKR,5 to 14,372
+Cape Verde,CPV,5<,362
+Madagascar,MDG,70+,359
+France,FRA,70+,358
+Moldova,MDA,50 to 69,357
+France,FRA,5<,356
+Kyrgyzstan,KGZ,5<,356
+Equatorial Guinea,GNQ,70+,355
+Vietnam,VNM,70+,347
+North Korea,PRK,70+,346
+Israel,ISR,50 to 69,342
+Morocco,MAR,70+,340
+Jamaica,JAM,5<,339
+Guinea-Bissau,GNB,70+,334
+Puerto Rico,PRI,70+,332
+Bolivia,BOL,70+,331
+Solomon Islands,SLB,15 to 49,331
+Kyrgyzstan,KGZ,50 to 69,328
+Saint Kitts and Nevis,KNA,15 to 49,326
+Honduras,HND,5<,324
+France,FRA,5 to 14,318
+Djibouti,DJI,5 to 14,317
+Syria,SYR,15 to 49,312
+Germany,DEU,5<,309
+Mauritania,MRT,50 to 69,295
+Ecuador,ECU,5 to 14,292
+Oman,OMN,50 to 69,288
+Bolivia,BOL,5 to 14,284
+Tunisia,TUN,5<,281
+Spain,ESP,5 to 14,274
+Georgia,GEO,15 to 49,272
+Mauritius,MUS,50 to 69,271
+Panama,PAN,5<,271
+Iran,IRN,70+,269
+Malaysia,MYS,70+,269
+Jamaica,JAM,5 to 14,267
+Norway,NOR,50 to 69,267
+Belize,BLZ,50 to 69,265
+Uzbekistan,UZB,5 to 14,262
+Barbados,BRB,50 to 69,253
+Ecuador,ECU,70+,250
+Micronesia (country),FSM,15 to 49,246
+United Kingdom,GBR,5<,243
+Greece,GRC,50 to 69,237
+Germany,DEU,5 to 14,228
+Jordan,JOR,15 to 49,224
+Russia,RUS,70+,216
+Chile,CHL,70+,215
+Italy,ITA,5<,214
+Japan,JPN,5<,214
+Armenia,ARM,15 to 49,211
+Panama,PAN,70+,211
+Bermuda,BMU,15 to 49,210
+Fiji,FJI,15 to 49,206
+Bahrain,BHR,15 to 49,205
+United Arab Emirates,ARE,50 to 69,205
+Timor,TLS,70+,202
+United States Virgin Islands,VIR,15 to 49,202
+Sri Lanka,LKA,5<,199
+Czechia,CZE,15 to 49,197
+Timor,TLS,5 to 14,197
+Saint Lucia,LCA,15 to 49,195
+Libya,LBY,5<,193
+Antigua and Barbuda,ATG,15 to 49,185
+Djibouti,DJI,70+,185
+Italy,ITA,5 to 14,184
+Jamaica,JAM,70+,183
+Libya,LBY,50 to 69,182
+Uzbekistan,UZB,5<,181
+South Korea,KOR,70+,178
+Saudi Arabia,SAU,5 to 14,174
+Syria,SYR,5<,173
+El Salvador,SLV,5 to 14,169
+Finland,FIN,15 to 49,169
+Croatia,HRV,15 to 49,167
+Laos,LAO,70+,163
+Canada,CAN,70+,156
+Finland,FIN,50 to 69,156
+Guyana,GUY,5<,156
+Paraguay,PRY,5 to 14,155
+Costa Rica,CRI,5<,151
+United Kingdom,GBR,70+,150
+Grenada,GRD,15 to 49,148
+Vanuatu,VUT,15 to 49,147
+Algeria,DZA,70+,145
+Saudi Arabia,SAU,70+,145
+Palestine,PSE,15 to 49,144
+Dominica,DMA,15 to 49,142
+Costa Rica,CRI,5 to 14,141
+New Zealand,NZL,50 to 69,139
+Japan,JPN,70+,135
+United Arab Emirates,ARE,70+,131
+Czechia,CZE,50 to 69,130
+Guatemala,GTM,70+,130
+Yemen,YEM,5 to 14,129
+United Kingdom,GBR,5 to 14,125
+Trinidad and Tobago,TTO,5<,123
+Turkmenistan,TKM,50 to 69,122
+Saint Vincent and the Grenadines,VCT,50 to 69,120
+Solomon Islands,SLB,5<,119
+Iraq,IRQ,50 to 69,118
+United States Virgin Islands,VIR,50 to 69,118
+Azerbaijan,AZE,50 to 69,117
+Samoa,WSM,15 to 49,116
+Paraguay,PRY,70+,113
+Turkey,TUR,70+,113
+Serbia,SRB,5<,112
+Croatia,HRV,50 to 69,111
+Kazakhstan,KAZ,5<,109
+Saint Kitts and Nevis,KNA,50 to 69,106
+Jordan,JOR,5<,105
+Luxembourg,LUX,15 to 49,103
+Micronesia (country),FSM,5<,103
+Suriname,SUR,5<,102
+Guam,GUM,15 to 49,100
+Kyrgyzstan,KGZ,5 to 14,100
+Algeria,DZA,5 to 14,99
+Bhutan,BTN,50 to 69,99
+Laos,LAO,5 to 14,99
+Mongolia,MNG,15 to 49,99
+Mauritania,MRT,70+,96
+Yemen,YEM,70+,95
+Cape Verde,CPV,5 to 14,94
+Bangladesh,BGD,70+,93
+Panama,PAN,5 to 14,93
+Poland,POL,5<,92
+Chile,CHL,5<,91
+Bermuda,BMU,50 to 69,90
+Guyana,GUY,5 to 14,89
+Micronesia (country),FSM,50 to 69,89
+Nicaragua,NIC,5 to 14,89
+Canada,CAN,5 to 14,88
+Trinidad and Tobago,TTO,5 to 14,88
+North Korea,PRK,5 to 14,87
+Honduras,HND,5 to 14,85
+Israel,ISR,5<,85
+Bangladesh,BGD,5 to 14,84
+Solomon Islands,SLB,50 to 69,84
+Portugal,PRT,5<,83
+Puerto Rico,PRI,5<,83
+Seychelles,SYC,15 to 49,83
+Puerto Rico,PRI,5 to 14,82
+Switzerland,CHE,70+,82
+Georgia,GEO,50 to 69,81
+Slovakia,SVK,15 to 49,81
+United Arab Emirates,ARE,5<,79
+Slovenia,SVN,15 to 49,78
+Afghanistan,AFG,5 to 14,76
+Cape Verde,CPV,70+,74
+Ireland,IRL,50 to 69,74
+South Korea,KOR,5<,74
+Australia,AUS,70+,72
+Qatar,QAT,15 to 49,72
+Cuba,CUB,70+,70
+Lebanon,LBN,70+,70
+Afghanistan,AFG,70+,69
+Estonia,EST,50 to 69,69
+Iran,IRN,5 to 14,69
+Belgium,BEL,70+,68
+Bhutan,BTN,5<,66
+Belgium,BEL,5<,64
+Brunei,BRN,15 to 49,63
+Guyana,GUY,70+,63
+Poland,POL,5 to 14,63
+Netherlands,NLD,5<,62
+Japan,JPN,5 to 14,61
+Palestine,PSE,5<,61
+Belize,BLZ,5<,60
+Nicaragua,NIC,70+,60
+Antigua and Barbuda,ATG,50 to 69,59
+Azerbaijan,AZE,5<,59
+Bahrain,BHR,50 to 69,59
+Belarus,BLR,5<,59
+Tunisia,TUN,70+,59
+Canada,CAN,5<,57
+Jordan,JOR,50 to 69,57
+Ukraine,UKR,70+,57
+Egypt,EGY,5 to 14,56
+Costa Rica,CRI,70+,54
+Mongolia,MNG,50 to 69,54
+Oman,OMN,5<,54
+Trinidad and Tobago,TTO,70+,54
+Grenada,GRD,50 to 69,53
+Bahamas,BHS,70+,52
+Suriname,SUR,70+,52
+Armenia,ARM,50 to 69,51
+Romania,ROU,70+,51
+Israel,ISR,70+,50
+Saint Lucia,LCA,50 to 69,50
+Malta,MLT,15 to 49,49
+Kuwait,KWT,15 to 49,48
+Andorra,AND,15 to 49,47
+Iraq,IRQ,5 to 14,47
+Netherlands,NLD,5 to 14,47
+Netherlands,NLD,70+,47
+Bahamas,BHS,5<,46
+Bosnia and Herzegovina,BIH,15 to 49,46
+Fiji,FJI,5<,46
+Greenland,GRL,15 to 49,46
+Egypt,EGY,70+,45
+Portugal,PRT,5 to 14,45
+Barbados,BRB,70+,44
+Syria,SYR,50 to 69,44
+Belgium,BEL,5 to 14,43
+Cuba,CUB,5 to 14,43
+Suriname,SUR,5 to 14,43
+Chile,CHL,5 to 14,42
+Cyprus,CYP,15 to 49,42
+Iceland,ISL,15 to 49,42
+Turkmenistan,TKM,5<,42
+Vanuatu,VUT,50 to 69,42
+Australia,AUS,5 to 14,41
+Samoa,WSM,50 to 69,41
+Bosnia and Herzegovina,BIH,50 to 69,40
+Bulgaria,BGR,5<,38
+Cuba,CUB,5<,38
+Australia,AUS,5<,37
+Bahamas,BHS,5 to 14,37
+Mauritania,MRT,5<,37
+Montenegro,MNE,15 to 49,37
+Marshall Islands,MHL,15 to 49,36
+Vanuatu,VUT,5<,36
+Austria,AUT,70+,35
+Guam,GUM,50 to 69,35
+Luxembourg,LUX,50 to 69,35
+Serbia,SRB,70+,35
+South Korea,KOR,5 to 14,35
+Denmark,DNK,70+,34
+Cyprus,CYP,50 to 69,33
+Dominica,DMA,50 to 69,33
+Israel,ISR,5 to 14,32
+Belize,BLZ,5 to 14,31
+Kazakhstan,KAZ,5 to 14,31
+North Macedonia,MKD,15 to 49,31
+Albania,ALB,15 to 49,30
+Greenland,GRL,50 to 69,30
+Seychelles,SYC,50 to 69,30
+Singapore,SGP,70+,30
+Sweden,SWE,70+,30
+Honduras,HND,70+,29
+Slovakia,SVK,50 to 69,29
+Andorra,AND,50 to 69,28
+Belize,BLZ,70+,28
+Fiji,FJI,50 to 69,28
+Lebanon,LBN,5 to 14,28
+Kiribati,KIR,15 to 49,27
+Tajikistan,TJK,5<,27
+Turkey,TUR,5 to 14,27
+Hungary,HUN,5<,26
+Latvia,LVA,5<,26
+Sri Lanka,LKA,5 to 14,25
+Slovenia,SVN,50 to 69,24
+Serbia,SRB,5 to 14,23
+Sweden,SWE,5<,23
+Tonga,TON,15 to 49,23
+Turkmenistan,TKM,5 to 14,22
+Brunei,BRN,50 to 69,21
+Greece,GRC,5<,20
+Libya,LBY,5 to 14,20
+Libya,LBY,70+,20
+Mongolia,MNG,5<,20
+Philippines,PHL,70+,20
+Poland,POL,70+,20
+Sri Lanka,LKA,70+,20
+Austria,AUT,5<,19
+Malta,MLT,50 to 69,19
+Qatar,QAT,50 to 69,19
+Samoa,WSM,5<,19
+Uruguay,URY,5<,19
+Uruguay,URY,5 to 14,19
+Belarus,BLR,5 to 14,18
+Solomon Islands,SLB,5 to 14,18
+Tunisia,TUN,5 to 14,18
+Saint Vincent and the Grenadines,VCT,70+,17
+Switzerland,CHE,5<,17
+Albania,ALB,50 to 69,16
+Comoros,COM,15 to 49,16
+Northern Mariana Islands,MNP,15 to 49,16
+Syria,SYR,5 to 14,15
+Guam,GUM,5<,14
+Hungary,HUN,5 to 14,14
+Vanuatu,VUT,70+,14
+Saint Vincent and the Grenadines,VCT,5<,13
+Switzerland,CHE,5 to 14,13
+Czechia,CZE,5<,12
+Oman,OMN,5 to 14,12
+North Macedonia,MKD,5<,11
+Oman,OMN,70+,11
+Palestine,PSE,50 to 69,11
+Saint Kitts and Nevis,KNA,5<,11
+Bahrain,BHR,5<,10
+Bhutan,BTN,70+,10
+Czechia,CZE,70+,10
+Micronesia (country),FSM,70+,10
+Palau,PLW,15 to 49,10
+Sao Tome and Principe,STP,15 to 49,10
+Finland,FIN,5<,9
+Greece,GRC,70+,9
+Micronesia (country),FSM,5 to 14,9
+Montenegro,MNE,50 to 69,9
+Saint Kitts and Nevis,KNA,70+,9
+Tajikistan,TJK,5 to 14,9
+Austria,AUT,5 to 14,8
+Georgia,GEO,5<,8
+Greece,GRC,5 to 14,8
+Kuwait,KWT,5<,8
+Mauritius,MUS,70+,8
+Norway,NOR,5<,8
+Sweden,SWE,5 to 14,8
+Jordan,JOR,5 to 14,7
+Marshall Islands,MHL,50 to 69,7
+New Zealand,NZL,70+,7
+Norway,NOR,70+,7
+Solomon Islands,SLB,70+,7
+United Arab Emirates,ARE,5 to 14,7
+Denmark,DNK,5<,6
+Ireland,IRL,5<,6
+Norway,NOR,5 to 14,6
+Cyprus,CYP,70+,5
+Fiji,FJI,5 to 14,5
+Finland,FIN,5 to 14,5
+Iceland,ISL,50 to 69,4
+Maldives,MDV,15 to 49,4
+Mauritania,MRT,5 to 14,4
+Saint Vincent and the Grenadines,VCT,5 to 14,4
+Tuvalu,TUV,15 to 49,4
+Bermuda,BMU,70+,3
+Bhutan,BTN,5 to 14,3
+Bulgaria,BGR,5 to 14,3
+Croatia,HRV,5<,3
+Denmark,DNK,5 to 14,3
+Ireland,IRL,5 to 14,3
+Kiribati,KIR,5<,3
+Kuwait,KWT,50 to 69,3
+Mauritius,MUS,5<,3
+Nauru,NRU,15 to 49,3
+Slovakia,SVK,5<,3
+New Zealand,NZL,5 to 14,2
+Barbados,BRB,5<,1
+Iraq,IRQ,70+,1
+Jordan,JOR,70+,1
+Kuwait,KWT,5 to 14,1
+North Macedonia,MKD,50 to 69,1
+Palau,PLW,50 to 69,1
+Tajikistan,TJK,70+,1
+United States Virgin Islands,VIR,70+,1
+Albania,ALB,5<,0
+Albania,ALB,5 to 14,0
+Albania,ALB,70+,0
+American Samoa,ASM,5<,0
+American Samoa,ASM,5 to 14,0
+American Samoa,ASM,15 to 49,0
+American Samoa,ASM,50 to 69,0
+American Samoa,ASM,70+,0
+Andorra,AND,5<,0
+Andorra,AND,5 to 14,0
+Andorra,AND,70+,0
+Antigua and Barbuda,ATG,5<,0
+Antigua and Barbuda,ATG,5 to 14,0
+Antigua and Barbuda,ATG,70+,0
+Armenia,ARM,5<,0
+Armenia,ARM,5 to 14,0
+Armenia,ARM,70+,0
+Azerbaijan,AZE,5 to 14,0
+Azerbaijan,AZE,70+,0
+Bahrain,BHR,5 to 14,0
+Bahrain,BHR,70+,0
+Barbados,BRB,5 to 14,0
+Belarus,BLR,70+,0
+Bermuda,BMU,5<,0
+Bermuda,BMU,5 to 14,0
+Bosnia and Herzegovina,BIH,5<,0
+Bosnia and Herzegovina,BIH,5 to 14,0
+Bosnia and Herzegovina,BIH,70+,0
+Brunei,BRN,5<,0
+Brunei,BRN,5 to 14,0
+Brunei,BRN,70+,0
+Bulgaria,BGR,70+,0
+Comoros,COM,5<,0
+Comoros,COM,5 to 14,0
+Comoros,COM,50 to 69,0
+Comoros,COM,70+,0
+Croatia,HRV,5 to 14,0
+Croatia,HRV,70+,0
+Cyprus,CYP,5<,0
+Cyprus,CYP,5 to 14,0
+Czechia,CZE,5 to 14,0
+Dominica,DMA,5<,0
+Dominica,DMA,5 to 14,0
+Dominica,DMA,70+,0
+Estonia,EST,5<,0
+Estonia,EST,5 to 14,0
+Estonia,EST,70+,0
+Fiji,FJI,70+,0
+Finland,FIN,70+,0
+Georgia,GEO,5 to 14,0
+Georgia,GEO,70+,0
+Greenland,GRL,5<,0
+Greenland,GRL,5 to 14,0
+Greenland,GRL,70+,0
+Grenada,GRD,5<,0
+Grenada,GRD,5 to 14,0
+Grenada,GRD,70+,0
+Guam,GUM,5 to 14,0
+Guam,GUM,70+,0
+Hungary,HUN,70+,0
+Iceland,ISL,5<,0
+Iceland,ISL,5 to 14,0
+Iceland,ISL,70+,0
+Ireland,IRL,70+,0
+Kazakhstan,KAZ,70+,0
+Kiribati,KIR,5 to 14,0
+Kiribati,KIR,50 to 69,0
+Kiribati,KIR,70+,0
+Kuwait,KWT,70+,0
+Kyrgyzstan,KGZ,70+,0
+Latvia,LVA,5 to 14,0
+Latvia,LVA,70+,0
+Lithuania,LTU,5<,0
+Lithuania,LTU,5 to 14,0
+Lithuania,LTU,70+,0
+Luxembourg,LUX,5<,0
+Luxembourg,LUX,5 to 14,0
+Luxembourg,LUX,70+,0
+Maldives,MDV,5<,0
+Maldives,MDV,5 to 14,0
+Maldives,MDV,50 to 69,0
+Maldives,MDV,70+,0
+Malta,MLT,5<,0
+Malta,MLT,5 to 14,0
+Malta,MLT,70+,0
+Marshall Islands,MHL,5<,0
+Marshall Islands,MHL,5 to 14,0
+Marshall Islands,MHL,70+,0
+Mauritius,MUS,5 to 14,0
+Moldova,MDA,5<,0
+Moldova,MDA,5 to 14,0
+Moldova,MDA,70+,0
+Monaco,MCO,5<,0
+Monaco,MCO,5 to 14,0
+Monaco,MCO,15 to 49,0
+Monaco,MCO,50 to 69,0
+Monaco,MCO,70+,0
+Mongolia,MNG,5 to 14,0
+Mongolia,MNG,70+,0
+Montenegro,MNE,5<,0
+Montenegro,MNE,5 to 14,0
+Montenegro,MNE,70+,0
+Nauru,NRU,5<,0
+Nauru,NRU,5 to 14,0
+Nauru,NRU,50 to 69,0
+Nauru,NRU,70+,0
+New Zealand,NZL,5<,0
+North Macedonia,MKD,5 to 14,0
+North Macedonia,MKD,70+,0
+Northern Mariana Islands,MNP,5<,0
+Northern Mariana Islands,MNP,5 to 14,0
+Northern Mariana Islands,MNP,50 to 69,0
+Northern Mariana Islands,MNP,70+,0
+Palau,PLW,5<,0
+Palau,PLW,5 to 14,0
+Palau,PLW,70+,0
+Palestine,PSE,5 to 14,0
+Palestine,PSE,70+,0
+Qatar,QAT,5<,0
+Qatar,QAT,5 to 14,0
+Qatar,QAT,70+,0
+Saint Kitts and Nevis,KNA,5 to 14,0
+Saint Lucia,LCA,5<,0
+Saint Lucia,LCA,5 to 14,0
+Saint Lucia,LCA,70+,0
+Samoa,WSM,5 to 14,0
+Samoa,WSM,70+,0
+San Marino,SMR,5<,0
+San Marino,SMR,5 to 14,0
+San Marino,SMR,15 to 49,0
+San Marino,SMR,50 to 69,0
+San Marino,SMR,70+,0
+Sao Tome and Principe,STP,5<,0
+Sao Tome and Principe,STP,5 to 14,0
+Sao Tome and Principe,STP,50 to 69,0
+Sao Tome and Principe,STP,70+,0
+Seychelles,SYC,5<,0
+Seychelles,SYC,5 to 14,0
+Seychelles,SYC,70+,0
+Singapore,SGP,5<,0
+Singapore,SGP,5 to 14,0
+Slovakia,SVK,5 to 14,0
+Slovakia,SVK,70+,0
+Slovenia,SVN,5<,0
+Slovenia,SVN,5 to 14,0
+Slovenia,SVN,70+,0
+Syria,SYR,70+,0
+Tonga,TON,5<,0
+Tonga,TON,5 to 14,0
+Tonga,TON,50 to 69,0
+Tonga,TON,70+,0
+Turkmenistan,TKM,70+,0
+Tuvalu,TUV,5<,0
+Tuvalu,TUV,5 to 14,0
+Tuvalu,TUV,50 to 69,0
+Tuvalu,TUV,70+,0
+United States Virgin Islands,VIR,5<,0
+United States Virgin Islands,VIR,5 to 14,0
+Uzbekistan,UZB,70+,0
+Vanuatu,VUT,5 to 14,0
