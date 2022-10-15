@@ -1,0 +1,31 @@
+Continent,Age,Deaths
+Africa,5<,3966435
+Africa,5 to 14,789495
+Africa,15 to 49,19798194
+Africa,50 to 69,4148494
+Africa,70+,410930
+Asia,5<,248324
+Asia,5 to 14,50867
+Asia,15 to 49,3421875
+Asia,50 to 69,616286
+Asia,70+,59465
+Europe,5<,27068
+Europe,5 to 14,14785
+Europe,15 to 49,756940
+Europe,50 to 69,115982
+Europe,70+,3076
+North America,5<,54433
+North America,5 to 14,14968
+North America,15 to 49,847017
+North America,50 to 69,232116
+North America,70+,9326
+South America,5<,35800
+South America,5 to 14,10399
+South America,15 to 49,559446
+South America,50 to 69,131596
+South America,70+,8231
+Oceania,5<,548
+Oceania,5 to 14,157
+Oceania,15 to 49,15842
+Oceania,50 to 69,4381
+Oceania,70+,304
