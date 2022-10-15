@@ -1,0 +1,53 @@
+Country,Code,Year,CondomUse,Percentage_Infection,Continent
+Lesotho,LSO,2016,76.3,1.089713408,Africa
+Colombia,COL,2016,70.5,0.017046169,South America
+Namibia,NAM,2016,70.3,0.364284975,Africa
+Senegal,SEN,2016,68.9,0.018187864,Africa
+Armenia,ARM,2016,68,0.00425728,Europe
+Burkina Faso,BFA,2016,67.6,0.019875203,Africa
+Cambodia,KHM,2016,67.2,0.007458952,Asia
+Kenya,KEN,2016,66.9,0.154955408,Africa
+Kyrgyzstan,KGZ,2016,66.5,0.010329797,Asia
+Gabon,GAB,2016,64.3,0.137707296,Africa
+Cameroon,CMR,2016,63.5,0.150535708,Africa
+Dominican Republic,DOM,2016,63.3,0.032526305,North America
+Guyana,GUY,2016,63.2,0.074673014,South America
+Malawi,MWI,2016,61.9,0.248807733,Africa
+Honduras,HND,2016,60.9,0.004897099,North America
+Eswatini,SWZ,2016,60.4,0.779178344,Africa
+Haiti,HTI,2016,58.9,0.086227128,North America
+Sao Tome and Principe,STP,2016,57.3,0.000492075,Africa
+Ukraine,UKR,2016,57.2,0.076196532,Europe
+Gambia,GMB,2016,57,0.10320436,Africa
+Tanzania,TZA,2016,56.4,0.131244127,Africa
+Rwanda,RWA,2016,54.7,0.054641301,Africa
+Niger,NER,2016,54.2,0.010813521,Africa
+Ethiopia,ETH,2016,53.6,0.031952601,Africa
+Guatemala,GTM,2016,51.8,0.012522358,North America
+Togo,TGO,2016,51.3,0.069108298,Africa
+Uganda,UGA,2016,50.7,0.186904277,Africa
+Zambia,ZMB,2016,50.1,0.351435691,Africa
+Cote d'Ivoire,CIV,2016,49.9,0.084503344,Africa
+Nigeria,NGA,2016,48.6,0.075832875,Africa
+Congo,COG,2016,48,0.137442391,Africa
+Comoros,COM,2016,47.7,0.001508301,Africa
+Guinea,GIN,2016,44.2,0.086885525,Africa
+Moldova,MDA,2016,42.1,0.022696696,Europe
+Albania,ALB,2016,41.9,0.000104308,Europe
+Benin,BEN,2016,39.6,0.033884985,Africa
+Angola,AGO,2016,38.4,0.132440058,Africa
+Mozambique,MOZ,2016,37,0.736519998,Africa
+Chad,TCD,2016,35.9,0.066537753,Africa
+India,IND,2016,35.9,0.006778772,Asia
+Burundi,BDI,2016,32.2,0.023274214,Africa
+Mali,MLI,2016,29.6,0.042520509,Africa
+Liberia,LBR,2016,29.4,0.060761474,Africa
+Bolivia,BOL,2016,27.6,0.014149975,South America
+Democratic Republic of Congo,COD,2016,26.7,0.024854951,Africa
+Ghana,GHA,2016,25.8,0.067105665,Africa
+Peru,PER,2016,18.4,0.019947594,Asia
+Nicaragua,NIC,2016,13.9,0.023620036,Africa
+Sierra Leone,SLE,2016,11.9,0.097696145,Africa
+Philippines,PHL,2016,11.1,0.036334763,Europe
+Madagascar,MDG,2016,8.8,0.019936235,Africa
+Turkmenistan,TKM,2016,6.6,0.00436213,Asia
