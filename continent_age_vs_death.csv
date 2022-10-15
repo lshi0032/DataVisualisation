@@ -1,0 +1,990 @@
+country,code,Age,Number_of_deaths,Continent
+Afghanistan,AFG,5<,1185,Asia
+Albania,ALB,5<,0,Europe
+Algeria,DZA,5<,1158,Africa
+American Samoa,ASM,5<,0,Oceania
+Andorra,AND,5<,0,Europe
+Angola,AGO,5<,36374,Africa
+Antigua and Barbuda,ATG,5<,0,North America
+Argentina,ARG,5<,554,South America
+Armenia,ARM,5<,0,Europe
+Australia,AUS,5<,37,Oceania
+Austria,AUT,5<,19,Europe
+Azerbaijan,AZE,5<,59,Europe
+Bahamas,BHS,5<,46,North America
+Bahrain,BHR,5<,10,Asia
+Bangladesh,BGD,5<,722,Asia
+Barbados,BRB,5<,1,North America
+Belarus,BLR,5<,59,Europe
+Belgium,BEL,5<,64,Europe
+Belize,BLZ,5<,60,North America
+Benin,BEN,5<,18184,Africa
+Bermuda,BMU,5<,0,North America
+Bhutan,BTN,5<,66,Asia
+Bolivia,BOL,5<,2781,South America
+Bosnia and Herzegovina,BIH,5<,0,Europe
+Botswana,BWA,5<,16794,Africa
+Brazil,BRA,5<,19789,South America
+Brunei,BRN,5<,0,Asia
+Bulgaria,BGR,5<,38,Europe
+Burkina Faso,BFA,5<,47882,Africa
+Burundi,BDI,5<,42679,Africa
+Cambodia,KHM,5<,9471,Asia
+Cameroon,CMR,5<,93542,Africa
+Canada,CAN,5<,57,North America
+Cape Verde,CPV,5<,362,Africa
+Central African Republic,CAF,5<,34144,Africa
+Chad,TCD,5<,24583,Africa
+Chile,CHL,5<,91,South America
+China,CHN,5<,18397,Asia
+Colombia,COL,5<,1265,South America
+Comoros,COM,5<,0,Africa
+Congo,COG,5<,28130,Africa
+Costa Rica,CRI,5<,151,North America
+Cote d'Ivoire,CIV,5<,153633,Africa
+Croatia,HRV,5<,3,Europe
+Cuba,CUB,5<,38,North America
+Cyprus,CYP,5<,0,Europe
+Czechia,CZE,5<,12,Europe
+Democratic Republic of Congo,COD,5<,131653,Africa
+Denmark,DNK,5<,6,Europe
+Djibouti,DJI,5<,2077,Africa
+Dominica,DMA,5<,0,North America
+Dominican Republic,DOM,5<,3756,North America
+Ecuador,ECU,5<,753,South America
+Egypt,EGY,5<,564,Africa
+El Salvador,SLV,5<,1615,North America
+Equatorial Guinea,GNQ,5<,4673,Africa
+Eritrea,ERI,5<,10003,Africa
+Estonia,EST,5<,0,Europe
+Eswatini,SWZ,5<,18589,Africa
+Ethiopia,ETH,5<,313914,Africa
+Fiji,FJI,5<,46,Oceania
+Finland,FIN,5<,9,Europe
+France,FRA,5<,356,Europe
+Gabon,GAB,5<,5103,Africa
+Gambia,GMB,5<,2567,Africa
+Georgia,GEO,5<,8,Europe
+Germany,DEU,5<,309,Europe
+Ghana,GHA,5<,60136,Africa
+Greece,GRC,5<,20,Europe
+Greenland,GRL,5<,0,North America
+Grenada,GRD,5<,0,North America
+Guam,GUM,5<,14,Oceania
+Guatemala,GTM,5<,1311,North America
+Guinea,GIN,5<,13039,Africa
+Guinea-Bissau,GNB,5<,4532,Africa
+Guyana,GUY,5<,156,South America
+Haiti,HTI,5<,39054,North America
+Honduras,HND,5<,324,North America
+Hungary,HUN,5<,26,Europe
+Iceland,ISL,5<,0,Europe
+India,IND,5<,133076,Asia
+Indonesia,IDN,5<,12683,Asia
+Iran,IRN,5<,1635,Asia
+Iraq,IRQ,5<,474,Asia
+Ireland,IRL,5<,6,Europe
+Israel,ISR,5<,85,Asia
+Italy,ITA,5<,214,Europe
+Jamaica,JAM,5<,339,North America
+Japan,JPN,5<,214,Asia
+Jordan,JOR,5<,105,Asia
+Kazakhstan,KAZ,5<,109,Asia
+Kenya,KEN,5<,349255,Africa
+Kiribati,KIR,5<,3,Oceania
+Kuwait,KWT,5<,8,Asia
+Kyrgyzstan,KGZ,5<,356,Asia
+Laos,LAO,5<,848,Asia
+Latvia,LVA,5<,26,Europe
+Lebanon,LBN,5<,384,Asia
+Lesotho,LSO,5<,28194,Africa
+Liberia,LBR,5<,4694,Africa
+Libya,LBY,5<,193,Africa
+Lithuania,LTU,5<,0,Europe
+Luxembourg,LUX,5<,0,Europe
+Madagascar,MDG,5<,4186,Africa
+Malawi,MWI,5<,215656,Africa
+Malaysia,MYS,5<,4492,Asia
+Maldives,MDV,5<,0,Asia
+Mali,MLI,5<,16973,Africa
+Malta,MLT,5<,0,Europe
+Marshall Islands,MHL,5<,0,Oceania
+Mauritania,MRT,5<,37,Africa
+Mauritius,MUS,5<,3,Africa
+Mexico,MEX,5<,3512,North America
+Moldova,MDA,5<,0,Europe
+Monaco,MCO,5<,0,Europe
+Mongolia,MNG,5<,20,Asia
+Montenegro,MNE,5<,0,Europe
+Morocco,MAR,5<,4679,Africa
+Mozambique,MOZ,5<,335643,Africa
+Myanmar,MMR,5<,18891,Asia
+Namibia,NAM,5<,20315,Africa
+Nauru,NRU,5<,0,Oceania
+Nepal,NPL,5<,3696,Asia
+Netherlands,NLD,5<,62,Europe
+New Zealand,NZL,5<,0,North America
+Nicaragua,NIC,5<,1136,Africa
+Niger,NER,5<,8967,Africa
+Nigeria,NGA,5<,239562,Africa
+North Korea,PRK,5<,984,Asia
+North Macedonia,MKD,5<,11,Europe
+Northern Mariana Islands,MNP,5<,0,Oceania
+Norway,NOR,5<,8,Europe
+Oman,OMN,5<,54,Asia
+Pakistan,PAK,5<,6473,Asia
+Palau,PLW,5<,0,North America
+Palestine,PSE,5<,61,Asia
+Panama,PAN,5<,271,Oceania
+Papua New Guinea,PNG,5<,6725,South America
+Paraguay,PRY,5<,2031,South America
+Peru,PER,5<,12072,Asia
+Philippines,PHL,5<,12031,Europe
+Poland,POL,5<,92,Europe
+Portugal,PRT,5<,83,Europe
+Puerto Rico,PRI,5<,83,North America
+Qatar,QAT,5<,0,Asia
+Romania,ROU,5<,713,Europe
+Russia,RUS,5<,11124,Europe
+Rwanda,RWA,5<,25817,Africa
+Saint Kitts and Nevis,KNA,5<,11,North America
+Saint Lucia,LCA,5<,0,North America
+Saint Vincent and the Grenadines,VCT,5<,13,North America
+Samoa,WSM,5<,19,Oceania
+San Marino,SMR,5<,0,Europe
+Sao Tome and Principe,STP,5<,0,Africa
+Saudi Arabia,SAU,5<,1057,Asia
+Senegal,SEN,5<,8328,Africa
+Serbia,SRB,5<,112,Europe
+Seychelles,SYC,5<,0,Africa
+Sierra Leone,SLE,5<,7180,Africa
+Singapore,SGP,5<,0,Asia
+Slovakia,SVK,5<,3,Oceania
+Slovenia,SVN,5<,0,Europe
+Solomon Islands,SLB,5<,119,Oceania
+Somalia,SOM,5<,12903,Africa
+South Africa,ZAF,5<,361794,Africa
+South Korea,KOR,5<,74,Asia
+South Sudan,SSD,5<,17968,Africa
+Spain,ESP,5<,401,Europe
+Sri Lanka,LKA,5<,199,Asia
+Sudan,SDN,5<,9841,Africa
+Suriname,SUR,5<,102,South America
+Sweden,SWE,5<,23,Europe
+Switzerland,CHE,5<,17,Europe
+Syria,SYR,5<,173,Asia
+Tajikistan,TJK,5<,27,Asia
+Tanzania,TZA,5<,325399,Africa
+Thailand,THA,5<,14018,Asia
+Timor-Leste,TLS,5<,1629,Asia
+Togo,TGO,5<,22443,Africa
+Tonga,TON,5<,0,Oceania
+Trinidad and Tobago,TTO,5<,123,North America
+Tunisia,TUN,5<,281,Africa
+Turkey,TUR,5<,443,Asia
+Turkmenistan,TKM,5<,42,Asia
+Tuvalu,TUV,5<,0,Oceania
+Uganda,UGA,5<,428131,Africa
+Ukraine,UKR,5<,914,Europe
+United Arab Emirates,ARE,5<,79,Asia
+United Kingdom,GBR,5<,243,Europe
+United States of America,USA,5<,3939,North America
+Uruguay,URY,5<,19,South America
+Uzbekistan,UZB,5<,181,Asia
+Vanuatu,VUT,5<,36,Oceania
+Venezuela,VEN,5<,1534,South America
+Vietnam,VNM,5<,2072,Asia
+Yemen,YEM,5<,1759,Asia
+Zambia,ZMB,5<,216174,Africa
+Zimbabwe,ZWE,5<,236368,Africa
+Afghanistan,AFG,5 to 14,76,Asia
+Albania,ALB,5 to 14,0,Europe
+Algeria,DZA,5 to 14,99,Africa
+American Samoa,ASM,5 to 14,0,Oceania
+Andorra,AND,5 to 14,0,Europe
+Angola,AGO,5 to 14,7578,Africa
+Antigua and Barbuda,ATG,5 to 14,0,North America
+Argentina,ARG,5 to 14,495,South America
+Armenia,ARM,5 to 14,0,Europe
+Australia,AUS,5 to 14,41,Oceania
+Austria,AUT,5 to 14,8,Europe
+Azerbaijan,AZE,5 to 14,0,Europe
+Bahamas,BHS,5 to 14,37,North America
+Bahrain,BHR,5 to 14,0,Asia
+Bangladesh,BGD,5 to 14,84,Asia
+Barbados,BRB,5 to 14,0,North America
+Belarus,BLR,5 to 14,18,Europe
+Belgium,BEL,5 to 14,43,Europe
+Belize,BLZ,5 to 14,31,North America
+Benin,BEN,5 to 14,3433,Africa
+Bermuda,BMU,5 to 14,0,North America
+Bhutan,BTN,5 to 14,3,Asia
+Bolivia,BOL,5 to 14,284,South America
+Bosnia and Herzegovina,BIH,5 to 14,0,Europe
+Botswana,BWA,5 to 14,3354,Africa
+Brazil,BRA,5 to 14,7171,South America
+Brunei,BRN,5 to 14,0,Asia
+Bulgaria,BGR,5 to 14,3,Europe
+Burkina Faso,BFA,5 to 14,12771,Africa
+Burundi,BDI,5 to 14,11557,Africa
+Cambodia,KHM,5 to 14,2689,Asia
+Cameroon,CMR,5 to 14,19217,Africa
+Canada,CAN,5 to 14,88,North America
+Cape Verde,CPV,5 to 14,94,Africa
+Central African Republic,CAF,5 to 14,6594,Africa
+Chad,TCD,5 to 14,4742,Africa
+Chile,CHL,5 to 14,42,South America
+China,CHN,5 to 14,3411,Asia
+Colombia,COL,5 to 14,464,South America
+Comoros,COM,5 to 14,0,Africa
+Congo,COG,5 to 14,6897,Africa
+Costa Rica,CRI,5 to 14,141,North America
+Cote d'Ivoire,CIV,5 to 14,30767,Africa
+Croatia,HRV,5 to 14,0,Europe
+Cuba,CUB,5 to 14,43,North America
+Cyprus,CYP,5 to 14,0,Europe
+Czechia,CZE,5 to 14,0,Europe
+Democratic Republic of Congo,COD,5 to 14,34186,Africa
+Denmark,DNK,5 to 14,3,Europe
+Djibouti,DJI,5 to 14,317,Africa
+Dominica,DMA,5 to 14,0,North America
+Dominican Republic,DOM,5 to 14,513,North America
+Ecuador,ECU,5 to 14,292,South America
+Egypt,EGY,5 to 14,56,Africa
+El Salvador,SLV,5 to 14,169,North America
+Equatorial Guinea,GNQ,5 to 14,1195,Africa
+Eritrea,ERI,5 to 14,2083,Africa
+Estonia,EST,5 to 14,0,Europe
+Eswatini,SWZ,5 to 14,2592,Africa
+Ethiopia,ETH,5 to 14,72106,Africa
+Fiji,FJI,5 to 14,5,Oceania
+Finland,FIN,5 to 14,5,Europe
+France,FRA,5 to 14,318,Europe
+Gabon,GAB,5 to 14,655,Africa
+Gambia,GMB,5 to 14,435,Africa
+Georgia,GEO,5 to 14,0,Europe
+Germany,DEU,5 to 14,228,Europe
+Ghana,GHA,5 to 14,14654,Africa
+Greece,GRC,5 to 14,8,Europe
+Greenland,GRL,5 to 14,0,North America
+Grenada,GRD,5 to 14,0,North America
+Guam,GUM,5 to 14,0,Oceania
+Guatemala,GTM,5 to 14,485,North America
+Guinea,GIN,5 to 14,2836,Africa
+Guinea-Bissau,GNB,5 to 14,1265,Africa
+Guyana,GUY,5 to 14,89,South America
+Haiti,HTI,5 to 14,8751,North America
+Honduras,HND,5 to 14,85,North America
+Hungary,HUN,5 to 14,14,Europe
+Iceland,ISL,5 to 14,0,Europe
+India,IND,5 to 14,28764,Asia
+Indonesia,IDN,5 to 14,1125,Asia
+Iran,IRN,5 to 14,69,Asia
+Iraq,IRQ,5 to 14,47,Asia
+Ireland,IRL,5 to 14,3,Europe
+Israel,ISR,5 to 14,32,Asia
+Italy,ITA,5 to 14,184,Europe
+Jamaica,JAM,5 to 14,267,North America
+Japan,JPN,5 to 14,61,Asia
+Jordan,JOR,5 to 14,7,Asia
+Kazakhstan,KAZ,5 to 14,31,Asia
+Kenya,KEN,5 to 14,75851,Africa
+Kiribati,KIR,5 to 14,0,Oceania
+Kuwait,KWT,5 to 14,1,Asia
+Kyrgyzstan,KGZ,5 to 14,100,Asia
+Laos,LAO,5 to 14,99,Asia
+Latvia,LVA,5 to 14,0,Europe
+Lebanon,LBN,5 to 14,28,Asia
+Lesotho,LSO,5 to 14,4384,Africa
+Liberia,LBR,5 to 14,1035,Africa
+Libya,LBY,5 to 14,20,Africa
+Lithuania,LTU,5 to 14,0,Europe
+Luxembourg,LUX,5 to 14,0,Europe
+Madagascar,MDG,5 to 14,791,Africa
+Malawi,MWI,5 to 14,40138,Africa
+Malaysia,MYS,5 to 14,947,Asia
+Maldives,MDV,5 to 14,0,Asia
+Mali,MLI,5 to 14,3078,Africa
+Malta,MLT,5 to 14,0,Europe
+Marshall Islands,MHL,5 to 14,0,Oceania
+Mauritania,MRT,5 to 14,4,Africa
+Mauritius,MUS,5 to 14,0,Africa
+Mexico,MEX,5 to 14,2085,North America
+Moldova,MDA,5 to 14,0,Europe
+Monaco,MCO,5 to 14,0,Europe
+Mongolia,MNG,5 to 14,0,Asia
+Montenegro,MNE,5 to 14,0,Europe
+Morocco,MAR,5 to 14,418,Africa
+Mozambique,MOZ,5 to 14,52158,Africa
+Myanmar,MMR,5 to 14,7012,Asia
+Namibia,NAM,5 to 14,3292,Africa
+Nauru,NRU,5 to 14,0,Oceania
+Nepal,NPL,5 to 14,509,Asia
+Netherlands,NLD,5 to 14,47,Europe
+New Zealand,NZL,5 to 14,2,North America
+Nicaragua,NIC,5 to 14,89,Africa
+Niger,NER,5 to 14,1713,Africa
+Nigeria,NGA,5 to 14,29511,Africa
+North Korea,PRK,5 to 14,87,Asia
+North Macedonia,MKD,5 to 14,0,Europe
+Northern Mariana Islands,MNP,5 to 14,0,Oceania
+Norway,NOR,5 to 14,6,Europe
+Oman,OMN,5 to 14,12,Asia
+Pakistan,PAK,5 to 14,481,Asia
+Palau,PLW,5 to 14,0,North America
+Palestine,PSE,5 to 14,0,Asia
+Panama,PAN,5 to 14,93,Oceania
+Papua New Guinea,PNG,5 to 14,846,South America
+Paraguay,PRY,5 to 14,155,South America
+Peru,PER,5 to 14,1166,Asia
+Philippines,PHL,5 to 14,6954,Europe
+Poland,POL,5 to 14,63,Europe
+Portugal,PRT,5 to 14,45,Europe
+Puerto Rico,PRI,5 to 14,82,North America
+Qatar,QAT,5 to 14,0,Asia
+Romania,ROU,5 to 14,3562,Europe
+Russia,RUS,5 to 14,2458,Europe
+Rwanda,RWA,5 to 14,6488,Africa
+Saint Kitts and Nevis,KNA,5 to 14,0,North America
+Saint Lucia,LCA,5 to 14,0,North America
+Saint Vincent and the Grenadines,VCT,5 to 14,4,North America
+Samoa,WSM,5 to 14,0,Oceania
+San Marino,SMR,5 to 14,0,Europe
+Sao Tome and Principe,STP,5 to 14,0,Africa
+Saudi Arabia,SAU,5 to 14,174,Asia
+Senegal,SEN,5 to 14,1804,Africa
+Serbia,SRB,5 to 14,23,Europe
+Seychelles,SYC,5 to 14,0,Africa
+Sierra Leone,SLE,5 to 14,1533,Africa
+Singapore,SGP,5 to 14,0,Asia
+Slovakia,SVK,5 to 14,0,Oceania
+Slovenia,SVN,5 to 14,0,Europe
+Solomon Islands,SLB,5 to 14,18,Oceania
+Somalia,SOM,5 to 14,3574,Africa
+South Africa,ZAF,5 to 14,79275,Africa
+South Korea,KOR,5 to 14,35,Asia
+South Sudan,SSD,5 to 14,2776,Africa
+Spain,ESP,5 to 14,274,Europe
+Sri Lanka,LKA,5 to 14,25,Asia
+Sudan,SDN,5 to 14,1463,Africa
+Suriname,SUR,5 to 14,43,South America
+Sweden,SWE,5 to 14,8,Europe
+Switzerland,CHE,5 to 14,13,Europe
+Syria,SYR,5 to 14,15,Asia
+Tajikistan,TJK,5 to 14,9,Asia
+Tanzania,TZA,5 to 14,59073,Africa
+Thailand,THA,5 to 14,2358,Asia
+Timor-Leste,TLS,5 to 14,197,Asia
+Togo,TGO,5 to 14,5323,Africa
+Tonga,TON,5 to 14,0,Oceania
+Trinidad and Tobago,TTO,5 to 14,88,North America
+Tunisia,TUN,5 to 14,18,Africa
+Turkey,TUR,5 to 14,27,Asia
+Turkmenistan,TKM,5 to 14,22,Asia
+Tuvalu,TUV,5 to 14,0,Oceania
+Uganda,UGA,5 to 14,95648,Africa
+Ukraine,UKR,5 to 14,372,Europe
+United Arab Emirates,ARE,5 to 14,7,Asia
+United Kingdom,GBR,5 to 14,125,Europe
+United States of America,USA,5 to 14,2097,North America
+Uruguay,URY,5 to 14,19,South America
+Uzbekistan,UZB,5 to 14,262,Asia
+Vanuatu,VUT,5 to 14,0,Oceania
+Venezuela,VEN,5 to 14,499,South America
+Vietnam,VNM,5 to 14,766,Asia
+Yemen,YEM,5 to 14,129,Asia
+Zambia,ZMB,5 to 14,37951,Africa
+Zimbabwe,ZWE,5 to 14,42604,Africa
+Afghanistan,AFG,15 to 49,2485,Asia
+Albania,ALB,15 to 49,30,Europe
+Algeria,DZA,15 to 49,3507,Africa
+American Samoa,ASM,15 to 49,0,Oceania
+Andorra,AND,15 to 49,47,Europe
+Angola,AGO,15 to 49,165907,Africa
+Antigua and Barbuda,ATG,15 to 49,185,North America
+Argentina,ARG,15 to 49,38079,South America
+Armenia,ARM,15 to 49,211,Europe
+Australia,AUS,15 to 49,4393,Oceania
+Austria,AUT,15 to 49,1476,Europe
+Azerbaijan,AZE,15 to 49,959,Europe
+Bahamas,BHS,15 to 49,3888,North America
+Bahrain,BHR,15 to 49,205,Asia
+Bangladesh,BGD,15 to 49,2864,Asia
+Barbados,BRB,15 to 49,877,North America
+Belarus,BLR,15 to 49,6374,Europe
+Belgium,BEL,15 to 49,1747,Europe
+Belize,BLZ,15 to 49,1461,North America
+Benin,BEN,15 to 49,48979,Africa
+Bermuda,BMU,15 to 49,210,North America
+Bhutan,BTN,15 to 49,426,Asia
+Bolivia,BOL,15 to 49,12048,South America
+Bosnia and Herzegovina,BIH,15 to 49,46,Europe
+Botswana,BWA,15 to 49,199864,Africa
+Brazil,BRA,15 to 49,337350,South America
+Brunei,BRN,15 to 49,63,Asia
+Bulgaria,BGR,15 to 49,1065,Europe
+Burkina Faso,BFA,15 to 49,214060,Africa
+Burundi,BDI,15 to 49,208080,Africa
+Cambodia,KHM,15 to 49,75723,Asia
+Cameroon,CMR,15 to 49,514686,Africa
+Canada,CAN,15 to 49,13119,North America
+Cape Verde,CPV,15 to 49,2002,Africa
+Central African Republic,CAF,15 to 49,194241,Africa
+Chad,TCD,15 to 49,87942,Africa
+Chile,CHL,15 to 49,9534,South America
+China,CHN,15 to 49,264863,Asia
+Colombia,COL,15 to 49,46676,South America
+Comoros,COM,15 to 49,16,Africa
+Congo,COG,15 to 49,127746,Africa
+Costa Rica,CRI,15 to 49,3205,North America
+Cote d'Ivoire,CIV,15 to 49,725031,Africa
+Croatia,HRV,15 to 49,167,Europe
+Cuba,CUB,15 to 49,4412,North America
+Cyprus,CYP,15 to 49,42,Europe
+Czechia,CZE,15 to 49,197,Europe
+Democratic Republic of Congo,COD,15 to 49,680002,Africa
+Denmark,DNK,15 to 49,946,Europe
+Djibouti,DJI,15 to 49,14520,Africa
+Dominica,DMA,15 to 49,142,North America
+Dominican Republic,DOM,15 to 49,51022,North America
+Ecuador,ECU,15 to 49,16353,South America
+Egypt,EGY,15 to 49,1562,Africa
+El Salvador,SLV,15 to 49,11151,North America
+Equatorial Guinea,GNQ,15 to 49,21417,Africa
+Eritrea,ERI,15 to 49,49047,Africa
+Estonia,EST,15 to 49,615,Europe
+Eswatini,SWZ,15 to 49,110640,Africa
+Ethiopia,ETH,15 to 49,1153140,Africa
+Fiji,FJI,15 to 49,206,Oceania
+Finland,FIN,15 to 49,169,Europe
+France,FRA,15 to 49,37367,Europe
+Gabon,GAB,15 to 49,29652,Africa
+Gambia,GMB,15 to 49,16458,Africa
+Georgia,GEO,15 to 49,272,Europe
+Germany,DEU,15 to 49,18683,Europe
+Ghana,GHA,15 to 49,338209,Africa
+Greece,GRC,15 to 49,722,Europe
+Greenland,GRL,15 to 49,46,North America
+Grenada,GRD,15 to 49,148,North America
+Guam,GUM,15 to 49,100,Oceania
+Guatemala,GTM,15 to 49,12038,North America
+Guinea,GIN,15 to 49,65257,Africa
+Guinea-Bissau,GNB,15 to 49,19715,Africa
+Guyana,GUY,15 to 49,5357,South America
+Haiti,HTI,15 to 49,200829,North America
+Honduras,HND,15 to 49,2660,North America
+Hungary,HUN,15 to 49,1737,Europe
+Iceland,ISL,15 to 49,42,Europe
+India,IND,15 to 49,2034239,Asia
+Indonesia,IDN,15 to 49,55043,Asia
+Iran,IRN,15 to 49,8687,Asia
+Iraq,IRQ,15 to 49,804,Asia
+Ireland,IRL,15 to 49,420,Europe
+Israel,ISR,15 to 49,669,Asia
+Italy,ITA,15 to 49,38956,Europe
+Jamaica,JAM,15 to 49,9944,North America
+Japan,JPN,15 to 49,1420,Asia
+Jordan,JOR,15 to 49,224,Asia
+Kazakhstan,KAZ,15 to 49,6991,Asia
+Kenya,KEN,15 to 49,1743527,Africa
+Kiribati,KIR,15 to 49,27,Oceania
+Kuwait,KWT,15 to 49,48,Asia
+Kyrgyzstan,KGZ,15 to 49,2975,Asia
+Laos,LAO,15 to 49,4051,Asia
+Latvia,LVA,15 to 49,2466,Europe
+Lebanon,LBN,15 to 49,1029,Asia
+Lesotho,LSO,15 to 49,225599,Africa
+Liberia,LBR,15 to 49,36421,Africa
+Libya,LBY,15 to 49,932,Africa
+Lithuania,LTU,15 to 49,1242,Europe
+Luxembourg,LUX,15 to 49,103,Europe
+Madagascar,MDG,15 to 49,24807,Africa
+Malawi,MWI,15 to 49,825035,Africa
+Malaysia,MYS,15 to 49,36562,Asia
+Maldives,MDV,15 to 49,4,Asia
+Mali,MLI,15 to 49,92525,Africa
+Malta,MLT,15 to 49,49,Europe
+Marshall Islands,MHL,15 to 49,36,Oceania
+Mauritania,MRT,15 to 49,706,Africa
+Mauritius,MUS,15 to 49,974,Africa
+Mexico,MEX,15 to 49,115679,North America
+Moldova,MDA,15 to 49,4620,Europe
+Monaco,MCO,15 to 49,0,Europe
+Mongolia,MNG,15 to 49,99,Asia
+Montenegro,MNE,15 to 49,37,Europe
+Morocco,MAR,15 to 49,9525,Africa
+Mozambique,MOZ,15 to 49,966069,Africa
+Myanmar,MMR,15 to 49,195451,Asia
+Namibia,NAM,15 to 49,105318,Africa
+Nauru,NRU,15 to 49,3,Oceania
+Nepal,NPL,15 to 49,23225,Asia
+Netherlands,NLD,15 to 49,3745,Europe
+New Zealand,NZL,15 to 49,513,North America
+Nicaragua,NIC,15 to 49,4584,Africa
+Niger,NER,15 to 49,47732,Africa
+Nigeria,NGA,15 to 49,1573433,Africa
+North Korea,PRK,15 to 49,6078,Asia
+North Macedonia,MKD,15 to 49,31,Europe
+Northern Mariana Islands,MNP,15 to 49,16,Oceania
+Norway,NOR,15 to 49,469,Europe
+Oman,OMN,15 to 49,1030,Asia
+Pakistan,PAK,15 to 49,23970,Asia
+Palau,PLW,15 to 49,10,North America
+Palestine,PSE,15 to 49,144,Asia
+Panama,PAN,15 to 49,10359,Oceania
+Papua New Guinea,PNG,15 to 49,46740,South America
+Paraguay,PRY,15 to 49,6292,South America
+Peru,PER,15 to 49,35851,Asia
+Philippines,PHL,15 to 49,76436,Europe
+Poland,POL,15 to 49,2511,Europe
+Portugal,PRT,15 to 49,18573,Europe
+Puerto Rico,PRI,15 to 49,15649,North America
+Qatar,QAT,15 to 49,72,Asia
+Romania,ROU,15 to 49,2963,Europe
+Russia,RUS,15 to 49,311407,Europe
+Rwanda,RWA,15 to 49,158134,Africa
+Saint Kitts and Nevis,KNA,15 to 49,326,North America
+Saint Lucia,LCA,15 to 49,195,North America
+Saint Vincent and the Grenadines,VCT,15 to 49,533,North America
+Samoa,WSM,15 to 49,116,Oceania
+San Marino,SMR,15 to 49,0,Europe
+Sao Tome and Principe,STP,15 to 49,10,Africa
+Saudi Arabia,SAU,15 to 49,7981,Asia
+Senegal,SEN,15 to 49,44514,Africa
+Serbia,SRB,15 to 49,1204,Europe
+Seychelles,SYC,15 to 49,83,Africa
+Sierra Leone,SLE,15 to 49,45994,Africa
+Singapore,SGP,15 to 49,755,Asia
+Slovakia,SVK,15 to 49,81,Oceania
+Slovenia,SVN,15 to 49,78,Europe
+Solomon Islands,SLB,15 to 49,331,Oceania
+Somalia,SOM,15 to 49,54457,Africa
+South Africa,ZAF,15 to 49,3548113,Africa
+South Korea,KOR,15 to 49,1301,Asia
+South Sudan,SSD,15 to 49,83952,Africa
+Spain,ESP,15 to 49,51022,Europe
+Sri Lanka,LKA,15 to 49,1269,Asia
+Sudan,SDN,15 to 49,65734,Africa
+Suriname,SUR,15 to 49,2541,South America
+Sweden,SWE,15 to 49,859,Europe
+Switzerland,CHE,15 to 49,2176,Europe
+Syria,SYR,15 to 49,312,Asia
+Tajikistan,TJK,15 to 49,1884,Asia
+Tanzania,TZA,15 to 49,1689817,Africa
+Thailand,THA,15 to 49,460483,Asia
+Timor-Leste,TLS,15 to 49,3356,Asia
+Togo,TGO,15 to 49,124950,Africa
+Tonga,TON,15 to 49,23,Oceania
+Trinidad and Tobago,TTO,15 to 49,6564,North America
+Tunisia,TUN,15 to 49,1470,Africa
+Turkey,TUR,15 to 49,1697,Asia
+Turkmenistan,TKM,15 to 49,3766,Asia
+Tuvalu,TUV,15 to 49,4,Oceania
+Uganda,UGA,15 to 49,1301577,Africa
+Ukraine,UKR,15 to 49,156715,Europe
+United Arab Emirates,ARE,15 to 49,1448,Asia
+United Kingdom,GBR,15 to 49,7944,Europe
+United States of America,USA,15 to 49,392211,North America
+Uruguay,URY,15 to 49,2804,South America
+Uzbekistan,UZB,15 to 49,10884,Asia
+Vanuatu,VUT,15 to 49,147,Oceania
+Venezuela,VEN,15 to 49,35672,South America
+Vietnam,VNM,15 to 49,137924,Asia
+Yemen,YEM,15 to 49,3520,Asia
+Zambia,ZMB,15 to 49,772297,Africa
+Zimbabwe,ZWE,15 to 49,1258225,Africa
+Afghanistan,AFG,50 to 69,463,Asia
+Albania,ALB,50 to 69,16,Europe
+Algeria,DZA,50 to 69,1193,Africa
+American Samoa,ASM,50 to 69,0,Oceania
+Andorra,AND,50 to 69,28,Europe
+Angola,AGO,50 to 69,32216,Africa
+Antigua and Barbuda,ATG,50 to 69,59,North America
+Argentina,ARG,50 to 69,8993,South America
+Armenia,ARM,50 to 69,51,Europe
+Australia,AUS,50 to 69,1530,Oceania
+Austria,AUT,50 to 69,455,Europe
+Azerbaijan,AZE,50 to 69,117,Europe
+Bahamas,BHS,50 to 69,818,North America
+Bahrain,BHR,50 to 69,59,Asia
+Bangladesh,BGD,50 to 69,662,Asia
+Barbados,BRB,50 to 69,253,North America
+Belarus,BLR,50 to 69,909,Europe
+Belgium,BEL,50 to 69,1078,Europe
+Belize,BLZ,50 to 69,265,North America
+Benin,BEN,50 to 69,9290,Africa
+Bermuda,BMU,50 to 69,90,North America
+Bhutan,BTN,50 to 69,99,Asia
+Bolivia,BOL,50 to 69,2786,South America
+Bosnia and Herzegovina,BIH,50 to 69,40,Europe
+Botswana,BWA,50 to 69,39421,Africa
+Brazil,BRA,50 to 69,79281,South America
+Brunei,BRN,50 to 69,21,Asia
+Bulgaria,BGR,50 to 69,716,Europe
+Burkina Faso,BFA,50 to 69,53308,Africa
+Burundi,BDI,50 to 69,46393,Africa
+Cambodia,KHM,50 to 69,14929,Asia
+Cameroon,CMR,50 to 69,106016,Africa
+Canada,CAN,50 to 69,3754,North America
+Cape Verde,CPV,50 to 69,450,Africa
+Central African Republic,CAF,50 to 69,41441,Africa
+Chad,TCD,50 to 69,18243,Africa
+Chile,CHL,50 to 69,2781,South America
+China,CHN,50 to 69,113978,Asia
+Colombia,COL,50 to 69,13119,South America
+Comoros,COM,50 to 69,0,Africa
+Congo,COG,50 to 69,26186,Africa
+Costa Rica,CRI,50 to 69,975,North America
+Cote d'Ivoire,CIV,50 to 69,142814,Africa
+Croatia,HRV,50 to 69,111,Europe
+Cuba,CUB,50 to 69,1327,North America
+Cyprus,CYP,50 to 69,33,Europe
+Czechia,CZE,50 to 69,130,Europe
+Democratic Republic of Congo,COD,50 to 69,147480,Africa
+Denmark,DNK,50 to 69,489,Europe
+Djibouti,DJI,50 to 69,2907,Africa
+Dominica,DMA,50 to 69,33,North America
+Dominican Republic,DOM,50 to 69,12354,North America
+Ecuador,ECU,50 to 69,2969,South America
+Egypt,EGY,50 to 69,559,Africa
+El Salvador,SLV,50 to 69,3400,North America
+Equatorial Guinea,GNQ,50 to 69,3794,Africa
+Eritrea,ERI,50 to 69,10129,Africa
+Estonia,EST,50 to 69,69,Europe
+Eswatini,SWZ,50 to 69,20501,Africa
+Ethiopia,ETH,50 to 69,228078,Africa
+Fiji,FJI,50 to 69,28,Oceania
+Finland,FIN,50 to 69,156,Europe
+France,FRA,50 to 69,11858,Europe
+Gabon,GAB,50 to 69,6825,Africa
+Gambia,GMB,50 to 69,3087,Africa
+Georgia,GEO,50 to 69,81,Europe
+Germany,DEU,50 to 69,8644,Europe
+Ghana,GHA,50 to 69,73642,Africa
+Greece,GRC,50 to 69,237,Europe
+Greenland,GRL,50 to 69,30,North America
+Grenada,GRD,50 to 69,53,North America
+Guam,GUM,50 to 69,35,Oceania
+Guatemala,GTM,50 to 69,3148,North America
+Guinea,GIN,50 to 69,15250,Africa
+Guinea-Bissau,GNB,50 to 69,3777,Africa
+Guyana,GUY,50 to 69,1023,South America
+Haiti,HTI,50 to 69,47386,North America
+Honduras,HND,50 to 69,638,North America
+Hungary,HUN,50 to 69,1788,Europe
+Iceland,ISL,50 to 69,4,Europe
+India,IND,50 to 69,252542,Asia
+Indonesia,IDN,50 to 69,5544,Asia
+Iran,IRN,50 to 69,2029,Asia
+Iraq,IRQ,50 to 69,118,Asia
+Ireland,IRL,50 to 69,74,Europe
+Israel,ISR,50 to 69,342,Asia
+Italy,ITA,50 to 69,7870,Europe
+Jamaica,JAM,50 to 69,2933,North America
+Japan,JPN,50 to 69,3308,Asia
+Jordan,JOR,50 to 69,57,Asia
+Kazakhstan,KAZ,50 to 69,487,Asia
+Kenya,KEN,50 to 69,380287,Africa
+Kiribati,KIR,50 to 69,0,Oceania
+Kuwait,KWT,50 to 69,3,Asia
+Kyrgyzstan,KGZ,50 to 69,328,Asia
+Laos,LAO,50 to 69,1151,Asia
+Latvia,LVA,50 to 69,539,Europe
+Lebanon,LBN,50 to 69,392,Asia
+Lesotho,LSO,50 to 69,57896,Africa
+Liberia,LBR,50 to 69,6685,Africa
+Libya,LBY,50 to 69,182,Africa
+Lithuania,LTU,50 to 69,530,Europe
+Luxembourg,LUX,50 to 69,35,Europe
+Madagascar,MDG,50 to 69,4855,Africa
+Malawi,MWI,50 to 69,166410,Africa
+Malaysia,MYS,50 to 69,7578,Asia
+Maldives,MDV,50 to 69,0,Asia
+Mali,MLI,50 to 69,22461,Africa
+Malta,MLT,50 to 69,19,Europe
+Marshall Islands,MHL,50 to 69,7,Oceania
+Mauritania,MRT,50 to 69,295,Africa
+Mauritius,MUS,50 to 69,271,Africa
+Mexico,MEX,50 to 69,24892,North America
+Moldova,MDA,50 to 69,357,Europe
+Monaco,MCO,50 to 69,0,Europe
+Mongolia,MNG,50 to 69,54,Asia
+Montenegro,MNE,50 to 69,9,Europe
+Morocco,MAR,50 to 69,2594,Africa
+Mozambique,MOZ,50 to 69,170983,Africa
+Myanmar,MMR,50 to 69,42029,Asia
+Namibia,NAM,50 to 69,24187,Africa
+Nauru,NRU,50 to 69,0,Oceania
+Nepal,NPL,50 to 69,6291,Asia
+Netherlands,NLD,50 to 69,1269,Europe
+New Zealand,NZL,50 to 69,139,North America
+Nicaragua,NIC,50 to 69,747,Africa
+Niger,NER,50 to 69,10210,Africa
+Nigeria,NGA,50 to 69,340895,Africa
+North Korea,PRK,50 to 69,2123,Asia
+North Macedonia,MKD,50 to 69,1,Europe
+Northern Mariana Islands,MNP,50 to 69,0,Oceania
+Norway,NOR,50 to 69,267,Europe
+Oman,OMN,50 to 69,288,Asia
+Pakistan,PAK,50 to 69,5401,Asia
+Palau,PLW,50 to 69,1,North America
+Palestine,PSE,50 to 69,11,Asia
+Panama,PAN,50 to 69,2585,Oceania
+Papua New Guinea,PNG,50 to 69,9480,South America
+Paraguay,PRY,50 to 69,1642,South America
+Peru,PER,50 to 69,6215,Asia
+Philippines,PHL,50 to 69,15478,Europe
+Poland,POL,50 to 69,635,Europe
+Portugal,PRT,50 to 69,4418,Europe
+Puerto Rico,PRI,50 to 69,4202,North America
+Qatar,QAT,50 to 69,19,Asia
+Romania,ROU,50 to 69,642,Europe
+Russia,RUS,50 to 69,25471,Europe
+Rwanda,RWA,50 to 69,33218,Africa
+Saint Kitts and Nevis,KNA,50 to 69,106,North America
+Saint Lucia,LCA,50 to 69,50,North America
+Saint Vincent and the Grenadines,VCT,50 to 69,120,North America
+Samoa,WSM,50 to 69,41,Oceania
+San Marino,SMR,50 to 69,0,Europe
+Sao Tome and Principe,STP,50 to 69,0,Africa
+Saudi Arabia,SAU,50 to 69,1742,Asia
+Senegal,SEN,50 to 69,10517,Africa
+Serbia,SRB,50 to 69,392,Europe
+Seychelles,SYC,50 to 69,30,Africa
+Sierra Leone,SLE,50 to 69,8172,Africa
+Singapore,SGP,50 to 69,444,Asia
+Slovakia,SVK,50 to 69,29,Oceania
+Slovenia,SVN,50 to 69,24,Europe
+Solomon Islands,SLB,50 to 69,84,Oceania
+Somalia,SOM,50 to 69,11435,Africa
+South Africa,ZAF,50 to 69,799418,Africa
+South Korea,KOR,50 to 69,1198,Asia
+South Sudan,SSD,50 to 69,14908,Africa
+Spain,ESP,50 to 69,7934,Europe
+Sri Lanka,LKA,50 to 69,409,Asia
+Sudan,SDN,50 to 69,12802,Africa
+Suriname,SUR,50 to 69,577,South America
+Sweden,SWE,50 to 69,462,Europe
+Switzerland,CHE,50 to 69,606,Europe
+Syria,SYR,50 to 69,44,Asia
+Tajikistan,TJK,50 to 69,397,Asia
+Tanzania,TZA,50 to 69,352606,Africa
+Thailand,THA,50 to 69,133725,Asia
+Timor-Leste,TLS,50 to 69,1315,Asia
+Togo,TGO,50 to 69,25081,Africa
+Tonga,TON,50 to 69,0,Oceania
+Trinidad and Tobago,TTO,50 to 69,1620,North America
+Tunisia,TUN,50 to 69,459,Africa
+Turkey,TUR,50 to 69,690,Asia
+Turkmenistan,TKM,50 to 69,122,Asia
+Tuvalu,TUV,50 to 69,0,Oceania
+Uganda,UGA,50 to 69,253348,Africa
+Ukraine,UKR,50 to 69,19088,Europe
+United Arab Emirates,ARE,50 to 69,205,Asia
+United Kingdom,GBR,50 to 69,2852,Europe
+United States of America,USA,50 to 69,123470,North America
+Uruguay,URY,50 to 69,1130,South America
+Uzbekistan,UZB,50 to 69,968,Asia
+Vanuatu,VUT,50 to 69,42,Oceania
+Venezuela,VEN,50 to 69,7815,South America
+Vietnam,VNM,50 to 69,7732,Asia
+Yemen,YEM,50 to 69,774,Asia
+Zambia,ZMB,50 to 69,135283,Africa
+Zimbabwe,ZWE,50 to 69,269259,Africa
+Afghanistan,AFG,70+,69,Asia
+Albania,ALB,70+,0,Europe
+Algeria,DZA,70+,145,Africa
+American Samoa,ASM,70+,0,Oceania
+Andorra,AND,70+,0,Europe
+Angola,AGO,70+,2284,Africa
+Antigua and Barbuda,ATG,70+,0,North America
+Argentina,ARG,70+,496,South America
+Armenia,ARM,70+,0,Europe
+Australia,AUS,70+,72,Oceania
+Austria,AUT,70+,35,Europe
+Azerbaijan,AZE,70+,0,Europe
+Bahamas,BHS,70+,52,North America
+Bahrain,BHR,70+,0,Asia
+Bangladesh,BGD,70+,93,Asia
+Barbados,BRB,70+,44,North America
+Belarus,BLR,70+,0,Europe
+Belgium,BEL,70+,68,Europe
+Belize,BLZ,70+,28,North America
+Benin,BEN,70+,1001,Africa
+Bermuda,BMU,70+,3,North America
+Bhutan,BTN,70+,10,Asia
+Bolivia,BOL,70+,331,South America
+Bosnia and Herzegovina,BIH,70+,0,Europe
+Botswana,BWA,70+,3881,Africa
+Brazil,BRA,70+,4145,South America
+Brunei,BRN,70+,0,Asia
+Bulgaria,BGR,70+,0,Europe
+Burkina Faso,BFA,70+,5426,Africa
+Burundi,BDI,70+,4186,Africa
+Cambodia,KHM,70+,1673,Asia
+Cameroon,CMR,70+,9885,Africa
+Canada,CAN,70+,156,North America
+Cape Verde,CPV,70+,74,Africa
+Central African Republic,CAF,70+,2889,Africa
+Chad,TCD,70+,1978,Africa
+Chile,CHL,70+,215,South America
+China,CHN,70+,33065,Asia
+Colombia,COL,70+,884,South America
+Comoros,COM,70+,0,Africa
+Congo,COG,70+,2312,Africa
+Costa Rica,CRI,70+,54,North America
+Cote d'Ivoire,CIV,70+,10872,Africa
+Croatia,HRV,70+,0,Europe
+Cuba,CUB,70+,70,North America
+Cyprus,CYP,70+,5,Europe
+Czechia,CZE,70+,10,Europe
+Democratic Republic of Congo,COD,70+,13002,Africa
+Denmark,DNK,70+,34,Europe
+Djibouti,DJI,70+,185,Africa
+Dominica,DMA,70+,0,North America
+Dominican Republic,DOM,70+,1495,North America
+Ecuador,ECU,70+,250,South America
+Egypt,EGY,70+,45,Africa
+El Salvador,SLV,70+,664,North America
+Equatorial Guinea,GNQ,70+,355,Africa
+Eritrea,ERI,70+,628,Africa
+Estonia,EST,70+,0,Europe
+Eswatini,SWZ,70+,1924,Africa
+Ethiopia,ETH,70+,21194,Africa
+Fiji,FJI,70+,0,Oceania
+Finland,FIN,70+,0,Europe
+France,FRA,70+,358,Europe
+Gabon,GAB,70+,773,Africa
+Gambia,GMB,70+,382,Africa
+Georgia,GEO,70+,0,Europe
+Germany,DEU,70+,517,Europe
+Ghana,GHA,70+,6822,Africa
+Greece,GRC,70+,9,Europe
+Greenland,GRL,70+,0,North America
+Grenada,GRD,70+,0,North America
+Guam,GUM,70+,0,Oceania
+Guatemala,GTM,70+,130,North America
+Guinea,GIN,70+,2039,Africa
+Guinea-Bissau,GNB,70+,334,Africa
+Guyana,GUY,70+,63,South America
+Haiti,HTI,70+,4672,North America
+Honduras,HND,70+,29,North America
+Hungary,HUN,70+,0,Europe
+Iceland,ISL,70+,0,Europe
+India,IND,70+,5748,Asia
+Indonesia,IDN,70+,583,Asia
+Iran,IRN,70+,269,Asia
+Iraq,IRQ,70+,1,Asia
+Ireland,IRL,70+,0,Europe
+Israel,ISR,70+,50,Asia
+Italy,ITA,70+,457,Europe
+Jamaica,JAM,70+,183,North America
+Japan,JPN,70+,135,Asia
+Jordan,JOR,70+,1,Asia
+Kazakhstan,KAZ,70+,0,Asia
+Kenya,KEN,70+,34616,Africa
+Kiribati,KIR,70+,0,Oceania
+Kuwait,KWT,70+,0,Asia
+Kyrgyzstan,KGZ,70+,0,Asia
+Laos,LAO,70+,163,Asia
+Latvia,LVA,70+,0,Europe
+Lebanon,LBN,70+,70,Asia
+Lesotho,LSO,70+,6672,Africa
+Liberia,LBR,70+,756,Africa
+Libya,LBY,70+,20,Africa
+Lithuania,LTU,70+,0,Europe
+Luxembourg,LUX,70+,0,Europe
+Madagascar,MDG,70+,359,Africa
+Malawi,MWI,70+,18108,Africa
+Malaysia,MYS,70+,269,Asia
+Maldives,MDV,70+,0,Asia
+Mali,MLI,70+,2347,Africa
+Malta,MLT,70+,0,Europe
+Marshall Islands,MHL,70+,0,Oceania
+Mauritania,MRT,70+,96,Africa
+Mauritius,MUS,70+,8,Africa
+Mexico,MEX,70+,1327,North America
+Moldova,MDA,70+,0,Europe
+Monaco,MCO,70+,0,Europe
+Mongolia,MNG,70+,0,Asia
+Montenegro,MNE,70+,0,Europe
+Morocco,MAR,70+,340,Africa
+Mozambique,MOZ,70+,16410,Africa
+Myanmar,MMR,70+,5184,Asia
+Namibia,NAM,70+,3221,Africa
+Nauru,NRU,70+,0,Oceania
+Nepal,NPL,70+,773,Asia
+Netherlands,NLD,70+,47,Europe
+New Zealand,NZL,70+,7,North America
+Nicaragua,NIC,70+,60,Africa
+Niger,NER,70+,819,Africa
+Nigeria,NGA,70+,33320,Africa
+North Korea,PRK,70+,346,Asia
+North Macedonia,MKD,70+,0,Europe
+Northern Mariana Islands,MNP,70+,0,Oceania
+Norway,NOR,70+,7,Europe
+Oman,OMN,70+,11,Asia
+Pakistan,PAK,70+,643,Asia
+Palau,PLW,70+,0,North America
+Palestine,PSE,70+,0,Asia
+Panama,PAN,70+,211,Oceania
+Papua New Guinea,PNG,70+,717,South America
+Paraguay,PRY,70+,113,South America
+Peru,PER,70+,1097,Asia
+Philippines,PHL,70+,20,Europe
+Poland,POL,70+,20,Europe
+Portugal,PRT,70+,444,Europe
+Puerto Rico,PRI,70+,332,North America
+Qatar,QAT,70+,0,Asia
+Romania,ROU,70+,51,Europe
+Russia,RUS,70+,216,Europe
+Rwanda,RWA,70+,2907,Africa
+Saint Kitts and Nevis,KNA,70+,9,North America
+Saint Lucia,LCA,70+,0,North America
+Saint Vincent and the Grenadines,VCT,70+,17,North America
+Samoa,WSM,70+,0,Oceania
+San Marino,SMR,70+,0,Europe
+Sao Tome and Principe,STP,70+,0,Africa
+Saudi Arabia,SAU,70+,145,Asia
+Senegal,SEN,70+,1094,Africa
+Serbia,SRB,70+,35,Europe
+Seychelles,SYC,70+,0,Africa
+Sierra Leone,SLE,70+,973,Africa
+Singapore,SGP,70+,30,Asia
+Slovakia,SVK,70+,0,Oceania
+Slovenia,SVN,70+,0,Europe
+Solomon Islands,SLB,70+,7,Oceania
+Somalia,SOM,70+,707,Africa
+South Africa,ZAF,70+,85692,Africa
+South Korea,KOR,70+,178,Asia
+South Sudan,SSD,70+,1352,Africa
+Spain,ESP,70+,424,Europe
+Sri Lanka,LKA,70+,20,Asia
+Sudan,SDN,70+,1391,Africa
+Suriname,SUR,70+,52,South America
+Sweden,SWE,70+,30,Europe
+Switzerland,CHE,70+,82,Europe
+Syria,SYR,70+,0,Asia
+Tajikistan,TJK,70+,1,Asia
+Tanzania,TZA,70+,38153,Africa
+Thailand,THA,70+,7950,Asia
+Timor-Leste,TLS,70+,202,Asia
+Togo,TGO,70+,1919,Africa
+Tonga,TON,70+,0,Oceania
+Trinidad and Tobago,TTO,70+,54,North America
+Tunisia,TUN,70+,59,Africa
+Turkey,TUR,70+,113,Asia
+Turkmenistan,TKM,70+,0,Asia
+Tuvalu,TUV,70+,0,Oceania
+Uganda,UGA,70+,23464,Africa
+Ukraine,UKR,70+,57,Europe
+United Arab Emirates,ARE,70+,131,Asia
+United Kingdom,GBR,70+,150,Europe
+Uruguay,URY,70+,397,South America
+Uzbekistan,UZB,70+,0,Asia
+Vanuatu,VUT,70+,14,Oceania
+Venezuela,VEN,70+,568,South America
+Vietnam,VNM,70+,347,Asia
+Yemen,YEM,70+,95,Asia
+Zambia,ZMB,70+,13864,Africa
+Zimbabwe,ZWE,70+,29587,Africa
